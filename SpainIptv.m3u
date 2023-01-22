@@ -363,8 +363,6 @@ http://192.99.38.174:1935/litustv/ngrp:litustv_all/playlist.m3u8
 https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream1/playlist.m3u8
 #EXTINF:-1 group-title="Argentina",[AR]Panamericana TV ðŸ‡¦ðŸ‡·
 http://cdnhd.iblups.com/hls/ptv2.m3u8
-#EXTINF:-1 ,[AR]Pinamar TV ????
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0095
 #EXTINF:-1 group-title="Argentina",[AR]RTN NEUQUEN ðŸ‡¦ðŸ‡·
 http://media.neuquen.gov.ar/rtn/television/chunklist_w2042779766.m3u8
 #EXTINF:-1 group-title="Argentina" tvg-logo="http://1.bp.blogspot.com/-o9pPhGXrzMU/UDQYqcGik4I/AAAAAAAAVVg/V01-iTq7J0g/s1600/TLX.png",[AR]Telemax ðŸ‡¦ðŸ‡·
@@ -587,38 +585,62 @@ https://bl.uma.media/live/291661/HLS/4614144_3,2883584_2,1153024_1/1613109268/2f
 http://flu.ttk.mx:9090/Strana/index.m3u8?token=orh6o
 #EXTINF:-1 ,[DEP][RU]Match TV UCL Bundesliga HD
 http://flu.ttk.mx:9090/MatchTV/index.m3u8?token=orh6o
-#EXTINF:-1 ,[DEP][RU]ÐœÐÐ¢Ð§ Ð¢Ð’
-http://194.113.234.110:4003
 #EXTINF:-1 ,[DEP][RU]ÐœÐ°Ñ‚Ñ‡ Ñ„ÑƒÑ‚Ð±Ð¾Ð» 1 SD Serie A
 http://tv.ttk.mx:9108
 #EXTINF:-1 ,[DEP][RU]ÐœÐ°Ñ‚Ñ‡ Ñ„ÑƒÑ‚Ð±Ð¾Ð» 3 HD Bundesliga
 http://tv.ttk.mx:9116
 #EXTINF:-1 ,[DEP][RU]ÐœÐ°Ñ‚Ñ‡ Ñ„ÑƒÑ‚Ð±Ð¾Ð»2 SD Brasil
 http://tv.ttk.mx:9111
+#EXTINF:-1 group-title="Deportes",[DEP]ÃƒÂÃ…Â¡ÃƒÂÃ‚Â¾ÃƒÂÃ‚Â½ÃƒÂÃ‚Â½Ãƒâ€˜Ã¢â‚¬Â¹ÃƒÂÃ‚Â¹ ÃƒÂÃ…â€œÃƒÂÃ‚Â¸Ãƒâ€˜Ã¢â€šÂ¬
+http://cdn-01.bonus-tv.ru/konnyimir/tracks-v1a1/mono.m3u8?token=gelow74
+#EXTINF:-1 group-title="Deportes",[DEP]ÃƒÂÃ…â€œÃƒÂÃ‚Â°Ãƒâ€˜Ã¢â‚¬Å¡Ãƒâ€˜Ã¢â‚¬Â¡! ÃƒÂÃ¢â‚¬ËœÃƒÂÃ‚Â¾ÃƒÂÃ‚ÂµÃƒâ€˜Ã¢â‚¬
+http://mfe.cliptv.az/dash/Matc_Boec_SD.ism/playlist.mpd
+#EXTINF:-1 group-title="Deportes",[DEP]ÃƒÂÃ‚Â¤Ãƒâ€˜Ã†â€™Ãƒâ€˜Ã¢â‚¬Å¡ÃƒÂÃ‚Â±ÃƒÂÃ‚Â¾ÃƒÂÃ‚Â» 1 ÃƒÂ°Ã…Â¸Ã¢â‚¬Â¡Ã‚Â·ÃƒÂ°Ã…Â¸Ã¢â‚¬Â¡Ã‚Âº
+http://myott.tv/stream/MEITIIUJNS/130.m3u8
 #EXTINF:-1 group-title="Deportes",[DEP]Adventure Sport TV
 https://giz.poppo.tv/channellivev3/live/master.m3u8?channel=275
 #EXTINF:-1 ,[DEP]Arryadia Sport HD
 http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/index.m3u8
 #EXTINF:-1 ,[DEP]ASTRAK RUS HD ðŸ‡·ðŸ‡º
 http://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v5a1/index.m3u8
+#EXTINF:-1 group-title="Deportes",[DEP]ATG1
+https://httpcache0-00688-cacheliveedge0.dna.qbrick.com/00688-cacheliveedge0/out/u/atg_sdi_1_free_3.m3u8
 #EXTINF:-1 group-title="Deportes",[DEP]ATGV 1 Sport
 http://httpcache0-00688-cacheliveedge0.dna.qbrick.com/00688-cacheliveedge0/out/u/atg_sdi_1_free_3.m3u8
-#EXTINF:-1 group-title="Deportes",[DEP]Auto Motor Sport
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f760c3d41aa2d0007bfde19/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=c676a4b5-65d2-474a-b477-c04f8b88e727&deviceId=5f760c3d41aa2d0007bfde19&deviceVersion=DNT&appVersion=DNT&deviceDNT=1&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&checkedby:iptvcat.com
+#EXTINF:-1 group-title="Deportes",[DEP]AUT|Red Bull TV HDÃƒÂ¡Ã‚Â´Ã‚Â´ÃƒÂ¡Ã‚Â´Ã‚Â°
+http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
+#EXTINF:-1 group-title="Deportes",[DEP]BAH|Bahrain Sport 1
+http://185.105.4.106:1935/live/Bahrain%20Sports/chunklist.m3u8?v=1548640033
+#EXTINF:-1 group-title="Deportes",[DEP]BAH|Bahrain Sports
+http://185.105.4.106:1935/live/Bahrain%20Sports/chunklist_w1180161901.m3u8
+#EXTINF:-1 group-title="Deportes",[DEP]BAH|Bahrain Sports 1
+https://5c7b683162943.streamlock.net/live/ngrp:Bahrain%20Sports_all/playlist.m3u8
 #EXTINF:-1 ,[DEP]BAHRAIN SPORTS ðŸ‡§ðŸ‡­
 http://185.105.4.106:1935/live/Bahrain+Sports/playlist.m3u8
 #EXTINF:-1 group-title="Ð¡Ð¿Ð¾Ñ€Ñ‚Ð¸Ð²Ð½Ñ‹Ðµ",[DEP]BR|TNT SPORTS 2 HD
 https://glxlmn026c.singularcdn.net.br/playout_02/playlist-720p.m3u8
 #EXTINF:-1 group-title="Ð¡Ð¿Ð¾Ñ€Ñ‚Ð¸Ð²Ð½Ñ‹Ðµ",[DEP]BR|TNT SPORTS HD
 https://glxlmn026c.singularcdn.net.br/playout_01/playlist-720p.m3u8
+#EXTINF:-1 group-title="Deportes",[DEP]CABLEUCR|Edge Sport
+https://img-edgesport.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 group-title="Deportes",[DEP]CABLEUCR|Motor Racing
 https://dai.google.com/linear/hls/event/qI1pC-R_Sma0bVLVjaEOtw/master.m3u8
+#EXTINF:-1 group-title="Deportes",[DEP]CABLEUCR|Motor Sport TV HDÃƒÂ¡Ã‚Â´Ã‚Â´ÃƒÂ¡Ã‚Â´Ã‚Â°
+https://digicom.hls.iptvdc.com/motorstv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,[DEP]CANAL CHINO 4 é­…åŠ›è¶³çƒ ðŸ‡¨ðŸ‡³
 http://183.207.255.188/live/program/live/mlyyhd/4000000/mnf.m3u8
 #EXTINF:-1 ,[DEP]CANAL CHINO 5 æ–°è§†è§‰ ðŸ‡¨ðŸ‡³
 http://183.207.255.188/live/program/live/xsjhd/4000000/mnf.m3u8
+#EXTINF:-1 group-title="Deportes",[DEP]CBS Sports
+https://cbsshg09-cbsshg09-ms.global.ssl.fastly.net/cbss54g2/master/cbss54g2_7.m3u8
+#EXTINF:-1 group-title="Deportes",[DEP]CBS Sports HQ
+http://dai.google.com/linear/hls/event/9Lq0ERvoSR-z9AwvFS-xYA/master.m3u8
+#EXTINF:-1 group-title="Deportes",[DEP]CBS Sports HQ
+https://dai.google.com/linear/hls/event/9Lq0ERvoSR-z9AwvFS-xYA/master.m3u8
 #EXTINF:-1 ,[DEP]CCTV5 + ðŸ‡¨ðŸ‡³
 http://39.135.138.59:18890/PLTV/88888910/224/3221225649/index.m3u8
+#EXTINF:-1 group-title="Deportes",[DEP]CH MYSPORTS
+https://cdn02.upstream-cloud.ch/sstvlinear/ngrp:sstvlinear_all/chunklist.m3u8
 #EXTINF:-1 group-title="Deportes",[DEP]CH|SWISS SPORTS
 https://cdn02.upstream-cloud.ch/sstvlinear/ngrp:sstvlinear_all/chunklist_w1477627972_b1096000.m3u8
 #EXTINF:-1 ,[DEP]CHE|O2TV SPORT
@@ -635,20 +657,54 @@ https://sc.id-tv.kz:443/MatchPlaneta_36_37.m3u8
 https://sc.id-tv.kz:443/FHD_KHL_34_35.m3u8
 #EXTINF:-1 group-title="Deportes",[DEP]Dubai Racing 2 HDï¿½
 http://dmithrvll.cdn.mangomolo.com/dubairacing/dubairacing/chunklist.m3u8
+#EXTINF:-1 group-title="Deportes",[DEP]Dubai Racing 3
+http://dmithrvll.cdn.mangomolo.com/dubaimubasher/smil:dubaimubasher.smil/playlist.m3u8
 #EXTINF:-1 group-title="Deportes",[DEP]Dubai Racing 3 HD
 http://dmithrvll.cdn.mangomolo.com/dubaimubasher/dubaimubasher/chunklist.m3u8
 #EXTINF:-1 group-title="Deportes",[DEP]Dubai Racing HDï¿½
 http://dmisvthvll.cdn.mangomolo.com/events/events/chunklist.m3u8
+#EXTINF:-1 group-title="Deportes",[DEP]Dubai Sports
+http://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/index.m3u8
+#EXTINF:-1 group-title="Deportes",[DEP]Dubai Sports
+http://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/master.m3u8
 #EXTINF:-1 ,[DEP]Dubai Sports 1
 http://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist_b1600000.m3u8?
+#EXTINF:-1 group-title="Deportes",[DEP]DUBAI SportS 1 FHD
+http://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports/chunklist.m3u8?checkedby
 #EXTINF:-1 group-title="Deportes",[DEP]Dubai Sports 2
 http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1600000.m3u8?
+#EXTINF:-1 group-title="Deportes",[DEP]Dubai Sports 2
+http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1300000.m3u8?
+#EXTINF:-1 group-title="Deportes",[DEP]Dubai Sports 2
+http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/index.m3u8
+#EXTINF:-1 group-title="Deportes",[DEP]DUBAI SportS 2 FHD
+http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8?checkedby
 #EXTINF:-1 group-title="Deportes",[DEP]Dubai Sports 3
 http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist_b1600000.m3u8?
+#EXTINF:-1 group-title="Deportes",[DEP]Dubai Sports 3
+http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/index.m3u8
+#EXTINF:-1 group-title="Deportes",[DEP]Dubai Sports 3
+http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist_b1600000.m3u8
+#EXTINF:-1 group-title="Deportes",[DEP]DUBAI SportS 3 FHD ÃƒÂ°Ã…Â¸Ã¢â‚¬Â¡Ã‚Â¸ÃƒÂ°Ã…Â¸Ã¢â‚¬Â¡Ã‚Â¦
+http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist.m3u8?checkedby
+#EXTINF:-1 group-title="Deportes",[DEP]Edge Sport
+https://imgedge.akamaized.net/amagi_hls_data_imgAAA2AA-edgesports/CDN/1920x1080_5628000/index.m3u8?fluxustv.m3u8
+#EXTINF:-1 group-title="Deportes",[DEP]Edge Sport
+https://imgedge.akamaized.net/amagi_hls_data_imgAAA2AA-edgesports/CDN/1920x1080_5628000/index.m3u8
+#EXTINF:-1 group-title="Deportes",[DEP]Edge Sport
+https://edgesports-plex.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Deportes",[DEP]Edge Sport [FHD]
+https://imgedge.akamaized.net/amagi_hls_data_imgAAA2AA-edgesports/CDN/playlist.m3u8
+#EXTINF:-1 group-title="Deportes",[DEP]EDGE SPORT FHD
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-edgesportxumo/CDN/master.m3u8
 #EXTINF:-1 ,[DEP]Edge Sports
 https://edgesports-plex.amagi.tv/playlistR1080p.m3u8?
+#EXTINF:-1 group-title="Deportes",[DEP]Edge Sports Ã¡Â´Â´Ã¡Â´Â°
+https://imgedge.akamaized.net/amagi_hls_data_imgAAA2AA-edgesports/CDN/1920x1080_5640800/index.m3u8
 #EXTINF:-1 group-title="Deportes",[DEP]Edge Sportsá´´á´°
 https://edgesports-plex.amagi.tv/playlistR1080p.m3u8
+#EXTINF:-1 group-title="Deportes",[DEP]EdgeSport
+https://edgesport-rakuten-samsung.amagi.tv/playlist.m3u8
 #EXTINF:-1 ,[DEP]Eleven Sports 5
 http://62.28.71.186:45678/http/192.168.150.137:7137/eleven5
 #EXTINF:-1 ,[DEP]ESPN 3 AR-CH
@@ -669,6 +725,8 @@ http://hlsstr02.svc.iptv.rt.ru/hls/CH_EUROSPORT4K_HLS/bw20000000/variant.m3u8
 https://dai.google.com/linear/hls/event/qd8D8TtbQ-2fFw5-1sZiWQ/master.m3u8
 #EXTINF:-1 ,[DEP]Fina Championship
 https://fina-live.i-cable.com/fhdfhd.m3u8?
+#EXTINF:-1 group-title="Deportes",[DEP]Football Daily
+https://dai2-xumo.fubo.tv/amagi_hls_data_xumo1212A-footballdaily/CDN/master.m3u8
 #EXTINF:-1 ,[DEP]Fox Sports 2
 http://170.83.242.155:5350/play/a013
 #EXTINF:-1 ,[DEP]Fox Sports 2
@@ -679,12 +737,22 @@ https://d17lgdx4t7a4od.cloudfront.net/out/v1/9143d1b1e45440b99f1fdc3a6a50c210/in
 http://170.83.242.155:5350/play/a014
 #EXTINF:-1 group-title="Deportes",[DEP]Fox Sports News
 https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Deportes",[DEP]fubo Sports Network
+https://dai2-xumo.fubo.tv/amagi_hls_data_xumo1212A-fubo/CDN/master.m3u8
+#EXTINF:-1 group-title="Deportes",[DEP]Fuel TV (Mexico) (1080p)
+https://fueltv-fueltv-11-mx.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 group-title="Deportes",[DEP]Glory Kickboxing (720p)
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxglorykickboxing/CDN/playlist.m3u8
 #EXTINF:-1 ,[DEP]Gol TV
 http://170.83.242.155:5350/play/a00v
 #EXTINF:-1 group-title="Deportes",[DEP]Hard Knock Fighting
 https://d3uyzhwvmemdyf.cloudfront.net/scheduler/scheduleMaster/109/variant/22099396/8d216b41-1,96b-49d2-afb2-46cb9916f903.m3u8
+#EXTINF:-1 group-title="Deportes",[DEP]Hard Knocks (720p)
+https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows/amagi_hls_data_xumo1212A-redboxhardknocksfightingchampionship/CDN/playlist.m3u8
+#EXTINF:-1 group-title="Deportes",[DEP]IND|DD SportS
+http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/Stream(02)/index.m3u8
+#EXTINF:-1 group-title="Deportes",[DEP]KAZ|QAZSPORTÃƒÂ¡Ã‚Â´Ã‚Â´ÃƒÂ¡Ã‚Â´Ã‚Â°
+http://92.46.127.146:8080/qazsport/index.m3u8
 #EXTINF:-1 ,[DEP]KSA Sports 1 HD
 http://213.254.12.6:4750/2034/0/base/stream.ts
 #EXTINF:-1 ,[DEP]KSA SPORTS 2 HD
@@ -693,6 +761,10 @@ http://213.254.12.6:4750/2066/0/base/stream.ts
 http://213.254.12.6:4750/2046/0/base/stream.ts
 #EXTINF:-1 ,[DEP]KSA Sports 4 HD
 http://213.254.12.6:4750/2025/0/base/stream.ts
+#EXTINF:-1 group-title="Deportes" tvg-logo="https://app.playlistbox.com/icon/ROQV8j3aWyE2vxpNAKZwb4Gle19kPLKn.png",[DEP]LATV|Setanta Latvia
+http://87.99.87.203:2020/channel/c42387/index.m3u8?q=306da459e31e7d171d11eea3d0ad4806
+#EXTINF:-1 group-title="Deportes",[DEP]MAC|TDM Sport
+http://live4.tdm.com.mo:80/ch4/_definst_/sport_ch4.live/playlist.m3u8
 #EXTINF:-1 group-title="Deportes",[DEP]MAR|Arriadia
 http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/arriadia-avc1_1500000=4-mp4a_130400_qad=1.m3u8
 #EXTINF:-1 ,[DEP]Max Sport
@@ -701,10 +773,14 @@ http://46.10.218.219:8000/play/a05n
 http://213.254.12.6:4750/6011/0/base/stream.ts
 #EXTINF:-1 ,[DEP]MU TV
 https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/playlist.m3u8?
+#EXTINF:-1 group-title="Deportes",[DEP]Nitro Circus (720p)
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxnitrocircus/CDN/playlist.m3u8?deviceid=&is_lat=&p=redbox&subp=RedboxdesktopWebWindows
 #EXTINF:-1 ,[DEP]Nova Sport
 http://46.10.218.219:8000/play/a04a
 #EXTINF:-1 ,[DEP]Nova sport3 UCL
 http://84.42.140.147:8890/hdmi
+#EXTINF:-1 group-title="Deportes",[DEP]Now Spots Prime
+http://livetv.dnsfor.me/channel.12.m3u8
 #EXTINF:-1 group-title="Deportes",[DEP]One Golf
 http://162.250.201.58:6211/pk/ONEGOLF/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Deportes",[DEP]Pac 12 Insider (1080p)
@@ -733,22 +809,42 @@ http://102.222.232.18:9981/stream/channelid/1144926314?ticket=0E4A4D674F56ED872B
 http://102.222.232.18:9981/stream/channelid/1221436021?ticket=16071F2EAFBE1D07AB57D416D8168FE0CE0E1B6A&profile=matroska
 #EXTINF:-1 ,[DEP]pt 1HD
 http://213.7.193.54:4000/play/a005/index.m3u8
+#EXTINF:-1 group-title="Deportes",[DEP]Qazsport KZ HD
+http://92.46.127.146:8080/qazsport/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,[DEP]Real Madrid TV
 https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8?
 #EXTINF:-1 ,[DEP]Realitatea Sportiva
 https://streamx.realitatea.net/realitatea/sportiva_hd/playlist.m3u8
 #EXTINF:-1 ,[DEP]Red Bull
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8?
+#EXTINF:-1 group-title="Deportes",[DEP]Red Bull TV UHD
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8?982608228290.m3u8
+#EXTINF:-1 group-title="Deportes",[DEP]Red Bull TV UHD
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8?nmstv.m3u8
+#EXTINF:-1 group-title="Deportes",[DEP]Red Bull TVÃƒÂ¡Ã‚Â´Ã‚Â´ÃƒÂ¡Ã‚Â´Ã‚Â°
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8?982608228290.m3u8
+#EXTINF:-1 group-title="Deportes",[DEP]Red Bull TVÃƒÂ¡Ã‚Â´Ã‚Â´ÃƒÂ¡Ã‚Â´Ã‚Â°
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8?xtreamiptv.m3u8
 #EXTINF:-1 group-title="Deportes",[DEP]Red Bull TVá´´á´°
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
+#EXTINF:-1 ,[DEP]Red de Deportes de Aventura
+http://dai2.xumo.com/amagi_hls_data_xumo1212A-adventuresportsnetwork/CDN/640x360_440000/index.m3u8
+#EXTINF:-1 ,[DEP]Red de deportes de aventura (720p)
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-adventuresportsnetwork/CDN/master.m3u8
 #EXTINF:-1 ,[DEP]RTSH Sport HD
 http://109.104.129.195:8001/play/s25
 #EXTINF:-1 group-title="Deportes",[DEP]RUS|ASTRAKHAN RU
 http://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v2a1/index.m3u8?q=?seg-user-zona-iptv.ru-v1-a1.m3u8
 #EXTINF:-1 group-title="Deportes",[DEP]RUS|Viasat Sport
 https://persik.by/stream/2944/263250/10249.m3u8
+#EXTINF:-1 group-title="Deportes",[DEP]RUS|Viasat Sports
+http://b66dc3b9.kartoshkaka.ru/iptv/SXSTT8UD3QSBQH/160/index.m3u8
+#EXTINF:-1 group-title="Deportes",[DEP]S Sport ÃƒÂ°Ã…Â¸Ã¢â‚¬Â¡Ã‚Â¹ÃƒÂ°Ã…Â¸Ã¢â‚¬Â¡Ã‚Â·
+http://r7hgthyx.otttv.pw/iptv/96L894PC252R3C/6825/index.m3u8
 #EXTINF:-1 group-title="Deportes",[DEP]San Marino RTV Sport
 https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch02/_definst_/smil:ch-02.smil/chunklist_b1692000_slita.m3u8
+#EXTINF:-1 group-title="Deportes",[DEP]SAN MARINO Sport ÃƒÂ°Ã…Â¸Ã¢â‚¬Â¡Ã‚Â¸ÃƒÂ°Ã…Â¸Ã¢â‚¬Â¡Ã‚Â²
+http://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch02/_definst_/ch-02/chunklist.m3u8
 #EXTINF:-1 ,[DEP]Setanta 1 HD Ligue1
 https://livetv.mylifeisgood.ml/channels/setantahd
 #EXTINF:-1 ,[DEP]Setanta 2 HD LaLiga
@@ -757,10 +853,14 @@ http://195.2.74.99/channel/n12693b2c/index.m3u8?q=76e2e28c6098712f77c0a0812f81b8
 https://livetv.mylifeisgood.ml/channels/setantaplus
 #EXTINF:-1 group-title="Deportes",[DEP]Ski TV (1080p)
 https://d2xeo83q8fcni6.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/SkiTV-Zee/193.m3u8
+#EXTINF:-1 group-title="Deportes",[DEP]SKY Sports 24 ÃƒÂ°Ã…Â¸Ã¢â‚¬Â¡Ã‚Â®ÃƒÂ°Ã…Â¸Ã¢â‚¬Â¡Ã‚Â¹
+https://skyanywhere3-i.akamaihd.net/hls/live/510697/interactive/playlist.m3u8
 #EXTINF:-1 ,[DEP]SPORT RU ðŸ‡·ðŸ‡º
 http://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v3a1/index.m3u8
 #EXTINF:-1 ,[DEP]SPORTS TV
 https://live.sportstv.com.tr/hls/low/sportstv.m3u8?
+#EXTINF:-1 group-title="Deportes",[DEP]Sportsgrid
+https://sportsgrid-klowdtv.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Deportes",[DEP]SportsGrid Network
 https://dai.google.com/linear/hls/event/9FKrAqCfRvGfn3tPbVFO-g/master.m3u8
 #EXTINF:-1 ,[DEP]SPOTV
@@ -769,6 +869,10 @@ https://bcovlive-a.akamaihd.net/99545824f51f4c1592b35314c6ece3b0/ap-northeast-1/
 https://bcovlive-a.akamaihd.net/99545824f51f4c1592b35314c6ece3b0/ap-northeast-1/6271486521001/playlist.m3u8?
 #EXTINF:-1 ,[DEP]SPOTV2
 https://bcovlive-a.akamaihd.net/48eee16919834d3b97df1082a649bcfa/ap-northeast-1/6271486521001/playlist.m3u8?
+#EXTINF:-1 group-title="Deportes",[DEP]STIRR Sports
+https://dai.google.com/linear/hls/event/1B2yihdIR1mCL63rXzERag/master.m3u8
+#EXTINF:-1 group-title="Deportes",[DEP]SUI|MYSPORTS
+http://cdn02.upstream-cloud.ch/sstvlinear/ngrp:sstvlinear_all/chunklist.m3u8
 #EXTINF:-1 ,[DEP]Supersport 3 HD
 http://5.254.16.186/Supersport3/index.m3u8
 #EXTINF:-1 group-title="DE_SWITZERLAND_SCHWEIZ",[DEP]Swiss Sport TV
@@ -787,46 +891,104 @@ https://glxlmn026c.singularcdn.net.br/playout_02/playlist-720p.m3u8?
 https://glxlmn026c.singularcdn.net.br/playout_03/playlist-720p.m3u8?
 #EXTINF:-1 ,[DEP]TNT SPORTS 4
 https://glxlmn026c.singularcdn.net.br/playout_04/playlist-720p.m3u8?
+#EXTINF:-1 ,[DEP]Todos los deportes
+http://cdn1.live.irib.ir:1935/channel-live/smil:varzesh.smil/chunklist_b307200_slFa.m3u8
+#EXTINF:-1 ,[DEP]Todos los deportes
+https://2-fss-2.streamhoster.com/pl_120/amlst:203932-1476320/playlist.m3u8
 #EXTINF:-1 ,[DEP]TR|sportstv
 http://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
+#EXTINF:-1 group-title="Deportes",[DEP]Trace Sport Stars
+https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Deportes",[DEP]Trace Sports
+https://lightning-tracesport-samsungau.amagi.tv/playlist480p.m3u8
+#EXTINF:-1 group-title="Deportes",[DEP]Tring Sport 1 HDÃƒÂ¡Ã‚Â´Ã‚Â´ÃƒÂ¡Ã‚Â´Ã‚Â°
+http://185.226.88.3:1036/live/backup/backup/63.m3u8
+#EXTINF:-1 group-title="Deportes",[DEP]Tring Sport 2 HDÃƒÂ¡Ã‚Â´Ã‚Â´ÃƒÂ¡Ã‚Â´Ã‚Â°
+http://185.226.88.3:1036/live/backup/backup/62.m3u8
+#EXTINF:-1 group-title="Deportes",[DEP]Tring Sport 3 HDÃƒÂ¡Ã‚Â´Ã‚Â´ÃƒÂ¡Ã‚Â´Ã‚Â°
+http://185.226.88.3:1036/live/backup/backup/61.m3u8
 #EXTINF:-1 ,[DEP]True 1 Premier
 http://4digital.ddns.net:11224/ts/0
 #EXTINF:-1 ,[DEP]True Sports
 http://4digital.ddns.net:11222/ts/0
 #EXTINF:-1 group-title="Deportes",[DEP]Tukmenistan Sport (406p)
 http://217.174.225.146/legacyhls/ch004_720/index.m3u8
+#EXTINF:-1 group-title="Deportes",[DEP]TukmenTV Sport
+https://alpha.tv.online.tm/hls/ch004.m3u8
 #EXTINF:-1 group-title="Deportes",[DEP]TUR|GALATASARAY TV
 https://owifavo5.rocketcdn.com/gstv/gstv.smil/master.m3u8
+#EXTINF:-1 group-title="Deportes",[DEP]TUR|GALATASARAY TV
+http://owifavo5.rocketcdn.com/gstv/gstv.smil/chunklist.m3u8
+#EXTINF:-1 group-title="Deportes",[DEP]TUR|TRT 3-SPOR
+http://195.155.98.170:5858/play/a09m
+#EXTINF:-1 group-title="Deportes",[DEP]TUR|TRT SPOR YILDIZ
+http://195.155.98.170:5858/play/a09u
+#EXTINF:-1 group-title="Deportes",[DEP]Turkmen Sport
+http://217.174.225.146/hls/ch004_720/index.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Deportes",[DEP]Turkmenistan Sport
+https://alpha.tv.online.tm/hls/ch004_720/index.m3u8
 #EXTINF:-1 group-title="Deportes",[DEP]Turkmenistan Sport HD
 http://alpha.tv.online.tm/legacyhls/ch004_720/index.m3u8
+#EXTINF:-1 group-title="Deportes",[DEP]TURKMENISTAN SportS ÃƒÂ°Ã…Â¸Ã¢â‚¬Â¡Ã‚Â¹ÃƒÂ°Ã…Â¸Ã¢â‚¬Â¡Ã‚Â·
+http://217.174.225.146/hls/ch004_720/index.m3u8
+#EXTINF:-1 group-title="Deportes",[DEP]TV 2 Sporten
+https://ws31-hls-live.akamaized.net/out/u/1416253_1.m3u8
+#EXTINF:-1 group-title="Deportes",[DEP]TVRI Sport ÃƒÂ°Ã…Â¸Ã¢â‚¬Â¡Ã‚Â¹ÃƒÂ°Ã…Â¸Ã¢â‚¬Â¡Ã‚Â·
+http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
 #EXTINF:-1 ,[DEP]TVRI Sports
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
 #EXTINF:-1 ,[DEP]TVRI4
 http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8?
+#EXTINF:-1 group-title="Deportes",[DEP]TVS Boxing (720p)
+https://rpn1.bozztv.com/36bay2/gusa-tvsboxing/index.m3u8
+#EXTINF:-1 group-title="Deportes",[DEP]TVS Sports (960p)
+https://rpn1.bozztv.com/36bay2/gusa-tvssports/index.m3u8
+#EXTINF:-1 group-title="Deportes",[DEP]TVS Sports Bureau (720p)
+https://rpn1.bozztv.com/36bay2/gusa-tvssportsbureau/index.m3u8
+#EXTINF:-1 group-title="Deportes",[DEP]TVS Turbo (360p)
+https://rpn1.bozztv.com/36bay2/gusa-tvsturbo/index.m3u8
+#EXTINF:-1 group-title="Deportes",[DEP]TVS Women Sports (480p)
+https://rpn1.bozztv.com/36bay2/gusa-tvswsn/index.m3u8
+#EXTINF:-1 group-title="Deportes",[DEP]TyC Sports Play 3
+https://d1xm2jznwi5xzj.cloudfront.net/out/v1/1bcd1ee954894463b1793597891a25b6/index_10.m3u8
 #EXTINF:-1 group-title="Deportes",[DEP]TyC Sports Play 4
 https://dpyzprfzko681.cloudfront.net/out/v1/366fc52554ae42c58465ea4b278eac0c/index_15.m3u8
 #EXTINF:-1 group-title="Deportes",[DEP]TyC Sports Play 5
 https://d107yb993altze.cloudfront.net/out/v1/772e0b0193134726ad84693b7baca6c6/index_9.m3u8
 #EXTINF:-1 group-title="Deportes",[DEP]TyC Sports Play 6
 https://dj8bzwveg7go9.cloudfront.net/out/v1/09e35529553d472b8f14e437af642e2f/index_15.m3u8
+#EXTINF:-1 group-title="Deportes",[DEP]UAE|Abu Dhabi Sports 5
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_Sports5
 #EXTINF:-1 group-title="Deportes",[DEP]UAE|Dubai Racing 2
 http://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/chunklist_b1600000.m3u8
-#EXTINF:-1 group-title="Deportes",[DEP]UCR|FOX Sports HD
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5a74b8e1e22a61737979c6bf/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=705&deviceId=5a74b8e1e22a61737979c6bf&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
-#EXTINF:-1 group-title="Deportes",[DEP]UCR|GLORY Kickboxing [HD]
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5417a212ff9fba68282fbf5e/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=736&deviceId=5417a212ff9fba68282fbf5e&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
-#EXTINF:-1 group-title="Deportes",[DEP]UCR|PGA TOUR [HD]
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5de94dacb394a300099fa22a/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=713&deviceId=5de94dacb394a300099fa22a&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
-#EXTINF:-1 group-title="Deportes",[DEP]UCR|TritonFight [HD]
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5812b0f2237a6ff45d16c3f9/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=726&deviceId=5812b0f2237a6ff45d16c3f9&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 group-title="Deportes",[DEP]UCR|Adventure Sports Network
+https://dai2-xumo.fubo.tv/amagi_hls_data_xumo1212A-adventuresportsnetwork/CDN/master.m3u8
 #EXTINF:-1 group-title="Deportes",[DEP]UCR|XSPORT HD
 http://iptv.prosto.tv:7000/ch110/video.m3u8
+#EXTINF:-1 group-title="Deportes",[DEP]UK|EDGE Sport
+https://dai.google.com/linear/hls/event/d4zeSI-dTuqizFrByjs3OA/master.m3u8
+#EXTINF:-1 group-title="Deportes",[DEP]Unifi Sport 2
+https://unifi-live05.secureswiftcontent.com/UnifiHD/live12.mpd
+#EXTINF:-1 group-title="Deportes",[DEP]USA|CBC Sport
+http://mfe.cliptv.az/dash/CBC_Sport_HD.ism/playlist.mpd?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Deportes",[DEP]USA|FOX Sport HDÃƒÂ¡Ã‚Â´Ã‚Â´ÃƒÂ¡Ã‚Â´Ã‚Â° 1
+https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8
 #EXTINF:-1 group-title="Deportes",[DEP]USA|ONE GOLF
 http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
+#EXTINF:-1 group-title="Deportes",[DEP]Viasat Sport
+https://persik.by/stream/2944/263250/10249.m3u8?xtreamiptv.m3u8
+#EXTINF:-1 group-title="Deportes",[DEP]Viasat Sport East
+https://persik.tv/stream/3602/287583/10249.m3u8
+#EXTINF:-1 group-title="Deportes",[DEP]Viasat Sport HDÃƒÂ¡Ã‚Â´Ã‚Â´ÃƒÂ¡Ã‚Â´Ã‚Â°
+http://cdnua03.hls.tv/133/hls/99c91cce995b5620c9929e6835e6caf1/330/stream.m3u8
 #EXTINF:-1 group-title="Deportes",[DEP]Viasat Sport RU
 http://bl.uma.media/live/485548/HLS/4614144_2,2883584/2/1/playlist.m3u8
 #EXTINF:-1 group-title="Deportes",[DEP]Viasat Sport RU
 https://sc.id-tv.kz:443/ViasatSport_34_35.m3u8
+#EXTINF:-1 group-title="Deportes",[DEP]Viasat Sport RU
+http://persik.tv/stream/3602/287583/10249.m3u8
+#EXTINF:-1 group-title="Deportes",[DEP]World Of Free Sports TV
+https://a.jsrdn.com/broadcast/ab14783a09/+0000/high/c.m3u8
 #EXTINF:-1 ,[DEP]X SPORT
 http://iptv.prosto.tv:7000/ch109/video.m3u8
 #EXTINF:-1 ,[DEP]ÐÑÑ‚Ñ€Ð°Ñ…Ð°Ð½ÑŒ.Ru Sport HD
@@ -835,6 +997,8 @@ http://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v2a1/index.m3u8
 http://iptv.ktkru.ru:8003/index.m3u8
 #EXTINF:-1 ,[DEP]ÐœÐ°Ñ‚Ñ‡ Ð¢Ð’
 https://livetv.mylifeisgood.ml/channels/matchhd_nocensored
+#EXTINF:-1 ,[DEP]ÐœÐ°Ñ‚Ñ‡ Ð¢Ð’
+http://flu.ttk.mx:9090/Match_HD/index.m3u8?token=orh6o
 #EXTINF:-1 ,[DEP]ÐœÐ°Ñ‚Ñ‡! Ð˜Ð³Ñ€Ð°
 http://mfe.cliptv.az/dash/Match_Igra_HD.ism/playlist.mpd
 #EXTINF:-1 ,[DEP]ÐœÐ°Ñ‚Ñ‡! Ð¡Ñ‚Ñ€Ð°Ð½Ð°
@@ -851,6 +1015,8 @@ https://limited38.todostreaming.es/live/101tv-webAxarquia.m3u8
 https://limited38.todostreaming.es/live/101tv-web101tv.m3u8
 #EXTINF:-1 group-title="Spain",[ES]24 Horas ðŸ‡ªðŸ‡¸
 https://rtvelivestreamv3.akamaized.net/24h/24h_main_dvr.m3u8
+#EXTINF:-1 group-title="Spain",[ES]28 Kanala
+https://5940924978228.streamlock.net/8157/8157/.m3u8
 #EXTINF:-1 group-title="Spain",[ES]28 kanala ðŸ‡ªðŸ‡¸
 https://5940924978228.streamlock.net/8157/8157/master.m3u8
 #EXTINF:-1 ,[ES]7 CyL TV ðŸ‡ªðŸ‡¸
@@ -861,10 +1027,16 @@ https://dxf45ob769xpw.cloudfront.net/out/v1/90ce358337e14be3bb82b6566b50a8b1/ind
 http://185.210.20.13:8080/0.m3u8
 #EXTINF:-1 group-title="Spain",[ES]9 La Loma TV ðŸ‡ªðŸ‡¸
 https://9laloma.tv/live.m3u8
+#EXTINF:-1 group-title="Spain",[ES]A Punt
+https://bcovlive-a.akamaihd.net/469e448f034b4d46afa4bcac53297d60/eu-central-1/6057955885001/playlist_dvr.m3u8
 #EXTINF:-1 group-title="Spain",[ES]A Punt ðŸ‡ªðŸ‡¸
 https://bcovlive-a.akamaihd.net/469e448f034b4d46afa4bcac53297d60/eu-central-1/6057955885001/profile_0/chunklist_dvr.m3u8
 #EXTINF:-1 group-title="Spain",[ES]Alacanti TV ðŸ‡ªðŸ‡¸
 https://streaming01.gestec-video.com/hls/artequatreAlacanti.m3u8
+#EXTINF:-1 group-title="Spain",[ES]Alcarria TV
+https://cls.alcarria.tv/live/alcarriatv-livestream.m3u8
+#EXTINF:-1 group-title="Spain",[ES]Alcarria TV FHD
+http://217.182.77.27/live/alcarriatv-livestream.m3u8
 #EXTINF:-1 group-title="Spain",[ES]Alcarria TV ðŸ‡ªðŸ‡¸
 http://cls.alcarria.tv/alcarriatv/livestream/playlist.m3u8
 #EXTINF:-1 ,[ES]Alcarria TV ðŸ‡ªðŸ‡¸
@@ -873,14 +1045,24 @@ http://cls.alcarria.tv/live/alcarriatv-livestream.m3u8
 http://cartv.streaming.aranova.es/hls/live/aragontv_canal1.m3u8
 #EXTINF:-1 ,[ES]Barca TV ðŸ‡ªðŸ‡¸
 http://154.62.74.29:1935/live/barza/chunklist.m3u8
+#EXTINF:-1 group-title="Spain",[ES]betev
+http://cdnapisec.kaltura.com/p/2346171/sp/234617100/playManifest/entryId/1_n6442jz0/format/applehttp/.m3u8?referrer=aHR0cHM6Ly9iZXRldmUuY2F0
+#EXTINF:-1 group-title="Spain",[ES]Beteve
+https://cdnapisec.kaltura.com/p/2346171/sp/234617100/playManifest/entryId/1_n6442jz0/format/applehttp/protocol/https/uiConfId/42816492/a.m3u8?referrer=aHR0cHM6Ly9iZXRldmUuY2F0&playSessionId=381edbc5-f6df-0566-8c73-b767fb340d6
 #EXTINF:-1 group-title="Spain",[ES]beteve ðŸ‡ªðŸ‡¸
 https://cdnapisec.kaltura.com/p/2346171/sp/234617100/playManifest/entryId/1_n6442jz0/format/applehttp/.m3u8?referrer=aHR0cHM6Ly9iZXRldmUuY2F0
+#EXTINF:-1 group-title="Spain",[ES]Bloomberg TV Europe
+https://liveprodeuwest.akamaized.net/eu1/Channel-EUTVqvs-AWS-ireland-1/Source-EUTVqvs-1000-1_live.m3u8
 #EXTINF:-1 ,[ES]Bom
 https://tvup-live.secure.footprint.net/bomcine/bomcine.mpd
 #EXTINF:-1 group-title="Spain",[ES]Cadena Elite
 https://cloudvideo.servers10.com:8081/8004/index.m3u8
 #EXTINF:-1 group-title="Spain",[ES]Canal 2000 La Solana
 http://canal2000.berkano-systems.net/streaming/streams/canal2000-720p.m3u8
+#EXTINF:-1 group-title="Spain",[ES]Canal 2000 La Solana (720p)
+http://canal2000.berkano-systems.net/streaming/streams/canal2000.m3u8
+#EXTINF:-1 group-title="Spain",[ES]Canal 25 Barbastro TV
+http://common01.todostreaming.es/live/tvbarbastro-livestream.m3u8
 #EXTINF:-1 group-title="Spain",[ES]Canal 25 TV (Barbastro)
 https://common01.todostreaming.es/live/tvbarbastro-livestream.m3u8
 #EXTINF:-1 group-title="Spain",[ES]Canal 33 Madrid
@@ -893,6 +1075,8 @@ https://5924d3ad0efcf.streamlock.net/canal4/canal4live/playlist.m3u8
 https://videos.canal56.com/directe/stream/index.m3u8
 #EXTINF:-1 group-title="Spain",[ES]Canal Do%ana
 https://secure5.todostreaming.es/live/division-alm.m3u8
+#EXTINF:-1 group-title="Spain",[ES]Canal Do%na
+http://secure5.todostreaming.es/live/division-alm.m3u8
 #EXTINF:-1 ,[ES]Canal Extremadura ðŸ‡ªðŸ‡¸
 http://cdnlive.shooowit.net/canalextremaduralive/smil:channel1DVR.smil/playlist.m3u8
 #EXTINF:-1 group-title="Spain",[ES]Canal Malaga PTV
@@ -903,10 +1087,12 @@ http://canalmalaga-tv-live.flumotion.com/playlist.m3u8
 https://elastic10.todostreaming.es/live/sanroque-livestream.m3u8
 #EXTINF:-1 group-title="Spain",[ES]Canal Sierra de Cadizá´´á´°
 http://217.125.136.93:8080/canalsierradecadiz1080.m3u8
-#EXTINF:-1 group-title="Spain" tvg-logo="https://i.imgur.com/sEN6VcY.png",[ES]Canal Sur AndalucÃ­a (720p)
+#EXTINF:-1 group-title="Spain" tvg-logo="https://i.imgur.com/sEN6VcY.png",[ES]Canal Sur Andalucia (720p)
 https://cdnlive.codev8.net/rtvalive/smil:channel1.smil/playlist.m3u8
 #EXTINF:-1 ,[ES]Canal Sur Andalucia ðŸ‡ªðŸ‡¸
 https://cdnlive.shooowit.net/rtvalive/smil:83CRxkDnV6DVR.smil/playlist.m3u8
+#EXTINF:-1 group-title="Spain",[ES]CGTN Espa%a
+http://livees.cgtn.com/500e/prog_index.m3u8
 #EXTINF:-1 group-title="Spain",[ES]CGTN Espa%a
 http://202.122.146.83/livees.cgtn.com/500e/prog_index.m3u8?wsiphost=local&wsrid_tag=5e3c7f6b_lp85_1261-26363
 #EXTINF:-1 ,[ES]Clan TV ðŸ‡ªðŸ‡¸
@@ -927,16 +1113,32 @@ https://limited11.todostreaming.es/live/benalmadena-livestream.m3u8
 https://limited31.todostreaming.es/live/noroestetv-livestream.m3u8
 #EXTINF:-1 ,[ES]Cubavision
 https://tvup-live.secure2.footprint.net/cubavision/cubavision.mpd
+#EXTINF:-1 group-title="Spain" tvg-logo="https://upload.wikimedia.org/wikipedia/sco/5/56/Real_Madrid_CF.svg",[ES]DEP|Real Madrid TV US Version (720p) [Not 24/7]
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Real-Madrid.m3u8
 #EXTINF:-1 group-title="Spain",[ES]Diez TV Ubeda
 https://streaming.cloud.innovasur.es/mmj/index.m3u8
 #EXTINF:-1 ,[ES]Distrito TV Madrid ðŸ‡ªðŸ‡¸
 https://cdn01.yowi.tv/KQRSDA7GDB/master.m3u8
 #EXTINF:-1 group-title="Spain",[ES]El Futuro en tu mano (720p)
 https://limited24.todostreaming.es/live/renjillo-livestream.m3u8
+#EXTINF:-1 group-title="Spain",[ES]Elche TV
+https://elche7tv.gestec-video.com/hls/canal2.m3u8
+#EXTINF:-1 group-title="Spain",[ES]Erlo Telebista
+https://5940924978228.streamlock.net/8159/8159/master.m3u8
 #EXTINF:-1 ,[ES]Esport3 ðŸ‡ªðŸ‡¸
 https://directes-tv-es.ccma.cat/live-origin/esport3-hls/master.m3u8
+#EXTINF:-1 group-title="Spain",[ES]esRadio
+http://livestreaming3.esradio.fm/stream64.mp3.m3u
+#EXTINF:-1 group-title="Spain",[ES]esRadio
+http://livestreaming9.esradio.fm/aaclive32
+#EXTINF:-1 group-title="Spain",[ES]EuropaPress
+http://graph.facebook.com/europapress.es/picture?width=320&height=320
 #EXTINF:-1 ,[ES]Extremadura TV HD ðŸ‡ªðŸ‡¸
 https://cdnlive.shooowit.net/canalextremaduralive/channel1DVR.smil/chunklist_b1500000_DVR.m3u8
+#EXTINF:-1 group-title="Spain",[ES]France 24
+http://static.france24.com/live/F24_ES_LO_HLS/live_web.m3u8
+#EXTINF:-1 group-title="Spain",[ES]France 24 Francia
+https://static.france24.com/live/F24_ES_HI_HLS/live_web.m3u8
 #EXTINF:-1 group-title="Spain",[ES]Galicia Americaá´´á´°
 http://america-crtvg.flumotion.com:80/crtvg/america_high/chunks.m3u8?wowzasessionid=inspiration
 #EXTINF:-1 group-title="Spain",[ES]Galicia Europaá´´á´°
@@ -947,6 +1149,12 @@ https://5940924978228.streamlock.net/8155/8155/master.m3u8
 https://dai.google.com/linear/hls/event/9ssgEjm4SM6kdOdByUsmRA/master.m3u8
 #EXTINF:-1 ,[ES]Hispan
 https://cdnlive.presstv.ir/cdnlive/smil:live.smil/chunklist_b644100_slen.m3u8
+#EXTINF:-1 group-title="Spain",[ES]HQM Latin
+https://livelist01.yowi.tv/lista/9a4da7871ec57b4b63ed49597a13d09869172be0/index-f1-v1-a1.m3u8
+#EXTINF:-1 group-title="Spain",[ES]HQM Spanish
+https://livelist01.yowi.tv/lista/8635ae40f8d1a32eccd63d1f58b55662c9c98f9f/master.m3u8
+#EXTINF:-1 group-title="Spain",[ES]Ibiza Global TV EN
+http://ibgrtv.streaming-pro.com/hls/ibgrlive.m3u8
 #EXTINF:-1 ,[ES]Imas TV ðŸ‡ªðŸ‡¸
 http://secure3.todostreaming.es/live/imastv-livestream.m3u8
 #EXTINF:-1 ,[ES]Interalmeria HD ðŸ‡ªðŸ‡¸
@@ -979,30 +1187,46 @@ https://cdnlive.shooowit.net/la8segovialive/smil:streamswitchingchannel.smil/pla
 http://cdnlive.shooowit.net/la8sorialive/smil:streamswitchingchannel.smil/playlist.m3u8
 #EXTINF:-1 ,[ES]La 8 Valladolid ðŸ‡ªðŸ‡¸
 http://cdnlive.shooowit.net/la8valladolidlive/smil:streamswitchingchannel.smil/playlist.m3u8
-#EXTINF:-1 group-title="ESPANA" tvg-logo="https://pbs.twimg.com/profile_images/971894509972967429/gu-7VRg2_400x400.jpg",[ES]LaOtra ðŸ‡ªðŸ‡¸
-http://live-laotra.cellnextelecom.net/laotra/smil:laotra/index.m3u8
-#EXTINF:-1 group-title="Spain",[ES]Levante TV
-http://play.cdn.enetres.net/C2F6CBB67E5B4D08A16CE5FE67ABCEC9023/029/playlist.m3u8
+#EXTINF:-1 group-title="Spain",[ES]Lebrija Television
+http://212.104.160.156:1935/live/lebrijatv2/.m3u8
 #EXTINF:-1 ,[ES]Linares PTV ðŸ‡ªðŸ‡¸
 https://streamer.zapitv.com/ptv-linarez/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Spain",[ES]Logos TV
+http://streamer1.streamhost.org/salive/logosH/master.m3u8
+#EXTINF:-1 group-title="Spain",[ES]Logos TV
+https://streamer1.streamhost.org/salive/logosH/master.m3u8
 #EXTINF:-1 group-title="Spain",[ES]Logos TV (1080p)
 http://streamer1.streamhost.org/salive/logosH/playlist.m3u8
 #EXTINF:-1 ,[ES]M95 Marbella ðŸ‡ªðŸ‡¸
 http://limited2.todostreaming.es/live/m95-livestream.m3u8
+#EXTINF:-1 group-title="Spain",[ES]Melilla Popular TV
+http://5940924978228.streamlock.net:1935/8009/8009/playlist.m3u8
+#EXTINF:-1 group-title="Spain",[ES]Melilla Popular TV
+https://5940924978228.streamlock.net/8009/8009/master.m3u8
 #EXTINF:-1 ,[ES]Melilla Popular TV ðŸ‡ªðŸ‡¸
 https://5940924978228.streamlock.net/8009/8009/chunklist_w922827150.m3u8
 #EXTINF:-1 ,[ES]Melilla TV ðŸ‡ªðŸ‡¸
 http://tvmelilla-hls-rm-lw.flumotion.com/playlist.m3u8
 #EXTINF:-1 group-title="Spain",[ES]MolaTV
 http://ventdelnord.tv:8080/mola/directe.m3u8
+#EXTINF:-1 group-title="Spain",[ES]Navarra TV (Opt-2)
+http://nws.nice264.com/SmilLive/getLiveIOS.smil?stream=NTV_livenatvmb&system=NTV&protocol=http_cupertino/playlist.m3u8
 #EXTINF:-1 group-title="Spain",[ES]Oizmendi Telebista
 https://5940924978228.streamlock.net/8161/8161/master.m3u8
+#EXTINF:-1 group-title="Spain",[ES]Onda Algeciras TV
+https://cloudtv.provideo.es/live/algecirastv-livestream.m3u8
 #EXTINF:-1 group-title="Spain",[ES]Onda Algeciras TV
 http://cloudtv.provideo.es/live/algecirastv-livestream.m3u8
 #EXTINF:-1 group-title="Spain",[ES]Onda Cadiz
 http://adc-hls.flumotion.com/playlist.m3u8
 #EXTINF:-1 group-title="Spain",[ES]Peque Radio TV
 https://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
+#EXTINF:-1 group-title="Spain",[ES]Popular TV Melilla
+https://5940924978228.streamlock.net/8009/8009/chunklist_w922827150.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Spain",[ES]Popular TV Melilla
+https://5940924978228.streamlock.net/8009/8009/chunklist_w922827150.m3u8?fluxustv.m3u8
+#EXTINF:-1 group-title="Spain",[ES]Popular TV Melilla
+https://5940924978228.streamlock.net/8009/8009/master.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 ,[ES]Radio esRadio_Asturias
 http://server4.20comunicacion.com:8822/
 #EXTINF:-1 group-title="Spain",[ES]Radio Marca Almeria
@@ -1027,6 +1251,8 @@ http://162.212.178.69:41042/bysid/608
 http://cdnlive.shooowit.net/rtpalive/directo.smil/.m3u8
 #EXTINF:-1 group-title="Spain",[ES]RTV
 https://59d7d6f47d7fc.streamlock.net/reggiotv/reggiotv/chunklist_w733172252.m3u8
+#EXTINF:-1 group-title="Spain",[ES]RTV Vida
+https://vidartv2.todostreaming.es/live/radiovida-emisiontvhd.m3u8
 #EXTINF:-1 group-title="Spain",[ES]RTV Vidaá´´á´°
 http://vidartv.todostreaming.es/live/radiovida-emisiontvhd.m3u8
 #EXTINF:-1 ,[ES]RTVE_02 ðŸ‡ªðŸ‡¸
@@ -1039,26 +1265,48 @@ https://dilmrwile8bz5.cloudfront.net/master.m3u8
 http://210.210.155.37/uq2663/h/h158/index2.m3u8
 #EXTINF:-1 ,[ES]RTVE_tdp ðŸ‡ªðŸ‡¸
 https://d38lin0lxb32l3.cloudfront.net/master.m3u8
+#EXTINF:-1 group-title="Spain",[ES]Runtime Espanol
+https://ammo-espanol-plex.amagi.tv/hls/amagi_hls_data_plexAAAAA-ammo-espanol-plex/CDN/playlist.m3u8?us_privacy=1---&did=&dnt=1&X-Plex-Token=vX2gxiT5Q_vtARVYwbZa&channelId=5f5132e362fe160040f26c15&checkedby:iptvcat.com
 #EXTINF:-1 group-title="Spain",[ES]Saber Mas
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-sabermas-distro/playlist.m3u8
 #EXTINF:-1 group-title="Spain",[ES]Solidaria TV
+https://canadaremar2.todostreaming.es/live/solidariatv-webhd.m3u8
+#EXTINF:-1 group-title="Spain",[ES]Solidaria TV
 http://canadaremar2.todostreaming.es/live/solidariatv-webhd.m3u8
+#EXTINF:-1 group-title="Spain",[ES]Sophia TV
+https://www.onairport.live/sophiatv-es-live/livestream_high/master.m3u8
+#EXTINF:-1 group-title="Spain",[ES]TeleBilbao
+http://cloudbilbao.todostreaming.es/live/telebilbao-livestream.m3u8
+#EXTINF:-1 group-title="Spain",[ES]TeleDonosti
+https://bcsecurelivehls-i.akamaihd.net/hls/live/568968/85688294001/playlist.m3u8
 #EXTINF:-1 ,[ES]TeleMadrid ðŸ‡ªðŸ‡¸
 https://telemadridhls2-live-hls.secure2.footprint.net/egress/chandler/telemadrid/laotra_1/index.m3u8
 #EXTINF:-1 group-title="Spain",[ES]TeleRibera
 http://37.187.7.106/teleribera/live.m3u8
+#EXTINF:-1 group-title="Spain",[ES]telesafor
+http://video.telesafor.com/hls/video.m3u8
 #EXTINF:-1 group-title="Spain",[ES]TeleSafor
 http://video.telesafor.com/hls/video_low.m3u8
+#EXTINF:-1 group-title="Spain",[ES]Tenerife 2030
+http://livestream.iter.es:9876/tdt/tdt.m3u8?fluxustv.m3u8
+#EXTINF:-1 group-title="Spain",[ES]Tenerife 2030 TV Ã¡Â´Â´Ã¡Â´Â°
+http://livestream.iter.es:9876/tdt/tdt.m3u8
 #EXTINF:-1 group-title="Spain",[ES]teve.cat (1080p)
 https://limited35.todostreaming.es/live/mitjans-livestream.m3u8
 #EXTINF:-1 group-title="Spain",[ES]TMC Cordoba
 http://teledifusion.tv:1935/cordoba/cordobalive/chunklist_w2010151594.m3u8
 #EXTINF:-1 group-title="Spain",[ES]Trece TV
 https://play.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/021/playlist.m3u8
+#EXTINF:-1 group-title="Spain",[ES]Trece TV (576p)
+https://live-edge-bhs-1.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/playlist.m3u8
 #EXTINF:-1 group-title="Spain",[ES]TV 4 Vall Uxo
 https://limited09.todostreaming.es/live/tarson-livestream.m3u8
 #EXTINF:-1 group-title="Spain",[ES]TV Galega Blumenau
 https://cdn.jmvstream.com/w/LVW-8538/LVW8538_KBtZ9UMIZn/playlist.m3u8
+#EXTINF:-1 group-title="Spain",[ES]TV Girona
+http://ventdelnord.tv:8080/girona/directe.m3u8
+#EXTINF:-1 group-title="Spain",[ES]TV VEGA BAJA
+http://185.29.68.24/tvb.m3u8
 #EXTINF:-1 group-title="Spain",[ES]TVG America
 http://america-crtvg.flumotion.com/crtvg/america_high/chunks.m3u8
 #EXTINF:-1 group-title="Spain",[ES]TVG Culturaá´´á´°
@@ -1071,10 +1319,14 @@ http://events2-crtvg.flumotion.com/playlist.m3u8
 http://events3-crtvg.flumotion.com/playlist.m3u8
 #EXTINF:-1 ,[ES]TVG Galicia Europa ðŸ‡ªðŸ‡¸
 http://europa-crtvg.flumotion.com/playlist.m3u8
+#EXTINF:-1 group-title="Spain",[ES]TVG Momentos G Ã¡Â´Â´Ã¡Â´Â°
+http://momentog-crtvg.flumotion.com:80/playlist.m3u8
 #EXTINF:-1 group-title="Spain",[ES]TVG Momentos Gá´´á´°
 http://momentog-crtvg.flumotion.com/playlist.m3u8
 #EXTINF:-1 group-title="Spain",[ES]TVG Musigal
 http://musigal-crtvg.flumotion.com/playlist.m3u8
+#EXTINF:-1 group-title="Spain",[ES]TVG Xabarin
+http://infantil-crtvg.flumotion.com/chunks.m3u8
 #EXTINF:-1 group-title="Spain",[ES]TVG Xabariná´´á´°
 http://infantil-crtvg.flumotion.com/playlist.m3u8
 #EXTINF:-1 group-title="Spain",[ES]TVGE Guinea Ecuatorial
@@ -1087,6 +1339,10 @@ http://teledifusion.tv/cordoba/cordobalive/playlist.m3u8
 http://streaming.cloud.innovasur.es/mmj/index.m3u8
 #EXTINF:-1 group-title="Spain",[ES]Unicanal
 http://45.55.127.106/live/unicanal.m3u8
+#EXTINF:-1 ,[ES]Ventdelnord TV
+http://ventdelnord.tv:8080/hls/directe.m3u8
+#EXTINF:-1 group-title="Spain",[ES]Vision 6
+http://secure3.todostreaming.es/live/visionseis-livestream.m3u8
 #EXTINF:-1 group-title="Spain",[ES]Vision 6
 https://secure3.todostreaming.es/live/visionseis-livestream.m3u8
 #EXTINF:-1 ,[EU]8 TV RU
@@ -1241,26 +1497,8 @@ http://185.236.229.31:9981/play/a01d
 http://154.58.202.35:8001/play/a0bv/index.m3u8
 #EXTINF:-1 ,[FR]ARTE
 http://154.58.202.35:8001/play/a0cn/index.m3u8
-#EXTINF:-1 ,[FR]BET
-http://154.58.202.35:8001/play/a0bl/index.m3u8
 #EXTINF:-1 ,[FR]BFM TV
 http://154.58.202.35:8001/play/a0cc/index.m3u8
-#EXTINF:-1 ,[FR]CANAL J
-http://154.58.202.35:8001/play/a0gm/index.m3u8
-#EXTINF:-1 ,[FR]CANAL+
-http://154.58.202.35:8001/play/a0it/index.m3u8
-#EXTINF:-1 ,[FR]CANAL+CINEMA
-http://154.58.202.35:8001/play/a0iv/index.m3u8
-#EXTINF:-1 ,[FR]CANAL+kids
-http://154.58.202.35:8001/play/a0iw/index.m3u8
-#EXTINF:-1 ,[FR]CANAL+SERIES
-http://154.58.202.35:8001/play/a0ix/index.m3u8
-#EXTINF:-1 ,[FR]CINE+ CLASSIC
-http://154.58.202.35:8001/play/a0j0/index.m3u8
-#EXTINF:-1 ,[FR]CINE+ FRISSON
-http://154.58.202.35:8001/play/a0iy/index.m3u8
-#EXTINF:-1 ,[FR]COMEDIE+
-http://154.58.202.35:8001/play/a0gn/index.m3u8
 #EXTINF:-1 ,[FR]DISNEY CHANNEL+1
 http://154.58.202.35:8001/play/a0ik/index.m3u8
 #EXTINF:-1 ,[FR]EUROSPORT 2
@@ -1337,10 +1575,6 @@ http://stream1.aswifi.it/videonola/live/index.m3u8
 http://livestreaming.videolina.it/live/Videolina/playlist.m3u8
 #EXTINF:-1 group-title="ITA",[IT]111 Tv
 https://5db313b643fd8.streamlock.net/111TV/111TV/playlist.m3u8
-#EXTINF:-1 ,[IT]20Mediaset HD
-http://51.179.188.106:4000/play/a00e/index.m3u8
-#EXTINF:-1 ,[IT]27Twentyseven HD
-http://51.179.188.106:4000/play/a00r/index.m3u8
 #EXTINF:-1 group-title="ITA",[IT]A2itv
 https://stream.sen-gt.com/A2itv/myStream/playlist.m3u8
 #EXTINF:-1 group-title="ITA",[IT]Alma TV
@@ -1351,8 +1585,6 @@ https://58f12ffd2447a.streamlock.net/Antenna2/livestream/playlist.m3u8
 https://59d8c0cee6f3d.streamlock.net/antennatreveneto/antennatreveneto.stream/playlist.m3u8
 #EXTINF:-1 group-title="ITA",[IT]Aurora Arte
 https://59d7d6f47d7fc.streamlock.net/auroraarte/auroraarte/chunklist.m3u8
-#EXTINF:-1 ,[IT]Boing
-http://51.179.188.106:4000/play/a00j/index.m3u8
 #EXTINF:-1 group-title="ITA",[IT]Camera dei Deputati (via RR) (240p)
 https://video-ar.radioradicale.it/diretta/camera2/playlist.m3u8
 #EXTINF:-1 group-title="ITA",[IT]Canale 10
@@ -1371,16 +1603,8 @@ https://59d7d6f47d7fc.streamlock.net/canale2/canale2/playlist.m3u8
 https://stream.mariatvcdn.com/canaleventunodue/61d14e72c90980498c9d7cee64fde847.sdp/chunks.m3u8
 #EXTINF:-1 group-title="ITA",[IT]Canale 21 Lazio
 https://stream.mariatvcdn.com/canaleventunodue/61d14e72c90980498c9d7cee64fde847.sdp/playlist.m3u8
-#EXTINF:-1 group-title="ITA",[IT]Canale 7
-http://wms.shared.streamshow.it/canale7/canale7/playlist.m3u8
 #EXTINF:-1 group-title="ITA",[IT]Canale 8
 https://59d8c0cee6f3d.streamlock.net/canale8/canale8/playlist.m3u8
-#EXTINF:-1 ,[IT]Canale5 HD
-http://51.179.188.106:4000/play/a00g/index.m3u8
-#EXTINF:-1 ,[IT]Cartoonito
-http://51.179.188.106:4000/play/a00p/index.m3u8
-#EXTINF:-1 ,[IT]Cine34 HD
-http://51.179.188.106:4000/play/a00d/index.m3u8
 #EXTINF:-1 group-title="ITA",[IT]Company TV (720p)
 https://5929b138b139d.streamlock.net/CompanyTV/smil:CompanyTV.smil/master.m3u8
 #EXTINF:-1 group-title="ITA",[IT]Cremona 1
@@ -1389,8 +1613,6 @@ https://59d8c0cee6f3d.streamlock.net/cremona1/cremona1/playlist.m3u8
 https://router.xdevel.com/video0s975363-69/stream/playlist.m3u8
 #EXTINF:-1 group-title="ITA",[IT]Di.Tv 92
 https://media2021.rtvweb.com/di_tv_92/live/playlist.m3u8
-#EXTINF:-1 ,[IT]DMAX Italy
-http://51.179.188.106:4000/play/a00u/index.m3u8
 #EXTINF:-1 group-title="ITA",[IT]Entella Tv
 https://5f22d76e220e1.streamlock.net:443/EntellaTV/EntellaTV/playlist.m3u8
 #EXTINF:-1 group-title="ITA",[IT]Entella TV
@@ -1411,14 +1633,6 @@ https://5f22d76e220e1.streamlock.net/eurotv/eurotv/playlist.m3u8
 https://5cbd3bc28341f.streamlock.net:444/fanotv_live/_definst_/43DA-3923-9C72-4E9F/playlist.m3u8
 #EXTINF:-1 group-title="ITA",[IT]FM Tv Marche
 https://cloudtv.azotosolutions.com:9553/media/media/playlist.m3u8
-#EXTINF:-1 ,[IT]Focus HD
-http://51.179.188.106:4000/play/a00q/index.m3u8
-#EXTINF:-1 ,[IT]Food Network Italy
-http://51.179.188.106:4000/play/a00v/index.m3u8
-#EXTINF:-1 ,[IT]Frisbee
-http://51.179.188.106:4000/play/a00x/index.m3u8
-#EXTINF:-1 ,[IT]Giallo
-http://51.179.188.106:4000/play/a011/index.m3u8
 #EXTINF:-1 group-title="ITA",[IT]GM24 â“ˆ
 https://streaming.softwarecreation.it/GM24/GM24/playlist.m3u8
 #EXTINF:-1 group-title="ITA",[IT]Gold 78
@@ -1429,20 +1643,12 @@ http://stream2.xdevel.com/video1s86-22/stream/playlist_dvr.m3u8
 https://streaming.softwarecreation.it/GoldTv/GoldTv/playlist.m3u8
 #EXTINF:-1 group-title="ITA",[IT]GRP Televisione
 https://5cbd3bc28341f.streamlock.net:444/grp/live/playlist.m3u8
-#EXTINF:-1 ,[IT]HGTV Italy
-http://51.179.188.106:4000/play/a013/index.m3u8
 #EXTINF:-1 group-title="ITA",[IT]Icaro TV
 https://59d7d6f47d7fc.streamlock.net/icarotv/icarotv/playlist.m3u8
-#EXTINF:-1 ,[IT]Iris HD
-http://51.179.188.106:4000/play/a00i/index.m3u8
 #EXTINF:-1 group-title="ITA",[IT]Italia 7
 https://streaming.softwarecreation.it/Italia7/Italia7/playlist.m3u8
-#EXTINF:-1 ,[IT]Italia1 HD
-http://51.179.188.106:4000/play/a00f/index.m3u8
 #EXTINF:-1 group-title="ITA",[IT]Iunior TV
 https://5f22d76e220e1.streamlock.net/iuniortv/iuniortv/playlist.m3u8
-#EXTINF:-1 ,[IT]K2
-http://51.179.188.106:4000/play/a00w/index.m3u8
 #EXTINF:-1 group-title="ITA",[IT]Kiss Kiss Napoli TV (380p)
 https://58f12ffd2447a.streamlock.net/KKTVNapoli/livestream/playlist.m3u8
 #EXTINF:-1 group-title="ITA",[IT]La C TV
@@ -1453,8 +1659,6 @@ http://streamcdng3.mainstreaming.tv/cdn/live/100197/SOrBDPy/playlist.m3u8
 http://streamcdnc3.mainstreaming.tv/cdn/live/100197/SOrBDPy/playlist.m3u8
 #EXTINF:-1 group-title="ITA",[IT]La TR3 Marsala
 https://tsw.streamingwebtv24.it:1936/eslife1/eslife1/playlist.m3u8
-#EXTINF:-1 ,[IT]La5 HD
-http://51.179.188.106:4000/play/a00k/index.m3u8
 #EXTINF:-1 group-title="ITA",[IT]Lab Tv
 http://live.sloode.com:1935/labtv_live/labtv/playlist.m3u8
 #EXTINF:-1 group-title="ITA",[IT]Lazio Tv
@@ -1473,18 +1677,10 @@ http://wms.shared.streamshow.it:80/lucaniatv/lucaniatv/playlist.m3u8
 https://srvx1.selftv.video/dmchannel/live/playlist.m3u8
 #EXTINF:-1 group-title="ITA",[IT]Media Tv
 http://live.sloode.com:1935/mediatv/live/playlist.m3u8
-#EXTINF:-1 ,[IT]Mediaset Extra HD
-http://51.179.188.106:4000/play/a00m/index.m3u8
-#EXTINF:-1 ,[IT]Mediaset Italia2 HD
-http://51.179.188.106:4000/play/a00n/index.m3u8
 #EXTINF:-1 group-title="ITA",[IT]Medjugorje Italia Tv
 https://5f22d76e220e1.streamlock.net/medjugorjeitaliatv/medjugorjeitaliatv/playlist.m3u8
 #EXTINF:-1 group-title="ITA",[IT]Minformo Tv
 https://5db313b643fd8.streamlock.net:443/MinformoTV/MinformoTV/playlist.m3u8
-#EXTINF:-1 ,[IT]MotorTrend
-http://51.179.188.106:4000/play/a010/index.m3u8
-#EXTINF:-1 ,[IT]Nove
-http://51.179.188.106:4000/play/a012/index.m3u8
 #EXTINF:-1 group-title="ITA",[IT]Odeon
 https://streaming.softwarecreation.it/Odeon/Odeon/playlist.m3u8
 #EXTINF:-1 group-title="ITA",[IT]Onda Novara Tv
@@ -1529,10 +1725,6 @@ https://59d7d6f47d7fc.streamlock.net/canale51/canale51/playlist.m3u8
 http://wms.shared.streamshow.it/canale51/canale51/playlist.m3u8
 #EXTINF:-1 group-title="ITA",[IT]Radio 51 TV
 http://178.32.140.155/canale51/canale51/playlist.m3u8
-#EXTINF:-1 group-title="ITA",[IT]Radio Birikina TV
-http://56b50ada2d659.streamlock.net:1935/RadioBirikinaTV/livestream/chunklist.m3u8
-#EXTINF:-1 group-title="ITA",[IT]Radio Birikina TV (720p) [Not 24/7]
-https://56b50ada2d659.streamlock.net/RadioBirikinaTV/livestream/playlist.m3u8
 #EXTINF:-1 group-title="ITA",[IT]Radio Company TV
 https://5929b138b139d.streamlock.net/CompanyTV/livestream_720p/playlist.m3u8
 #EXTINF:-1 group-title="ITA",[IT]Radio Ibiza TV (360p)
@@ -1555,28 +1747,16 @@ https://video-ar.radioradicale.it/diretta/padtv2/playlist.m3u8
 https://5ce9406b73c33.streamlock.net/RSD/ngrp:livestream_all/playlist.m3u8
 #EXTINF:-1 group-title="ITA",[IT]Radio Taormina Sicilia
 https://stream2.xdevel.com/video1s3-7/stream/playlist.m3u8
-#EXTINF:-1 ,[IT]Rai 1 HD
-http://51.179.188.106:4000/play/a003/index.m3u8
-#EXTINF:-1 ,[IT]Rai 2 HD
-http://51.179.188.106:4000/play/a004/index.m3u8
 #EXTINF:-1 ,[IT]RAI 2 HD
 http://95.107.132.105/out/u/450_2.m3u8?
 #EXTINF:-1 group-title="ITA",[IT]RAI 3
 http://wzstreaming.rai.it/TVlive/liveStream/chunklist_w1480246840.m3u8
-#EXTINF:-1 ,[IT]Rai 3 HD
-http://51.179.188.106:4000/play/a005/index.m3u8
 #EXTINF:-1 group-title="ITA",[IT]Rai 3á´´á´°
 http://wzstreaming.rai.it/TVlive/liveStream/chunklist_w823540263.m3u8?wowzasessionid=inspiration
 #EXTINF:-1 group-title="ITA",[IT]Rai 4
 http://mediapolisevent.rai.it/relinker/relinkerServlet.htm?cont=746966
-#EXTINF:-1 ,[IT]Rai 4 HD
-http://51.179.188.106:4000/play/a006/index.m3u8
-#EXTINF:-1 ,[IT]Rai Movie HD
-http://51.179.188.106:4000/play/a007/index.m3u8
 #EXTINF:-1 group-title="ITA",[IT]Rai News
 https://streamcdnb11-8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/rainews1/hls/rainews_2400/chunklist.m3u8
-#EXTINF:-1 ,[IT]Realtime Italy
-http://51.179.188.106:4000/play/a00t/index.m3u8
 #EXTINF:-1 group-title="ITA",[IT]Reggio TV
 https://59d7d6f47d7fc.streamlock.net/reggiotv/reggiotv/playlist.m3u8
 #EXTINF:-1 group-title="ITA",[IT]Reggio TV (480p)
@@ -1595,8 +1775,6 @@ https://5926fc9c7c5b2.streamlock.net/9094/9094/playlist.m3u8
 https://57068da1deb21.streamlock.net/retetvitalia/retetvitalia/playlist.m3u8
 #EXTINF:-1 group-title="ITA",[IT]Rete Veneta
 http://wms.shared.streamshow.it/reteveneta/reteveneta/playlist.m3u8
-#EXTINF:-1 ,[IT]Rete4 HD
-http://51.179.188.106:4000/play/a00h/index.m3u8
 #EXTINF:-1 group-title="ITA",[IT]Retemia
 https://5db313b643fd8.streamlock.net/Retemia/Retemia/playlist.m3u8
 #EXTINF:-1 group-title="ITA",[IT]Reteveneta
@@ -1765,10 +1943,6 @@ https://59d7d6f47d7fc.streamlock.net/rs2/rs2/playlist.m3u8
 http://ts2000tv.streaming.nextware.it:8081/ts2000tv/ts2000tv/playlist.m3u8
 #EXTINF:-1 group-title="ITA",[IT]Televallo Trapani
 https://5cbd3bc28341f.streamlock.net:444/televallo/live/playlist.m3u8
-#EXTINF:-1 ,[IT]TGCOM24 HD
-http://51.179.188.106:4000/play/a00l/index.m3u8
-#EXTINF:-1 ,[IT]TOPcrime HD
-http://51.179.188.106:4000/play/a00o/index.m3u8
 #EXTINF:-1 group-title="ITA",[IT]Touring Tv
 https://flash2.xdevel.com/radiotouring10496/radiotouring10496_aac/playlist.m3u8
 #EXTINF:-1 group-title="ITA",[IT]Tsn Lecco
@@ -1799,12 +1973,6 @@ http://217.61.26.46:8080/hls/triveneta.m3u8
 http://fms.tvavicenza.it:1935/live/diretta_1/playlist.m3u8
 #EXTINF:-1 group-title="ITA",[IT]TVA Vicenza
 http://fms.tvavicenza.it:1935/live/diretta_1/playlist.m3u
-#EXTINF:-1 group-title="ITA",[IT]TVL
-https://live.mariatvcdn.com/mariatvcdn/70564e1c6884c007c76f0c128d679eed.sdp/mono.m3u8
-#EXTINF:-1 group-title="ITA",[IT]TVL (720p) [Not 24/7]
-https://live.mariatvcdn.com/mariatvcdn/70564e1c6884c007c76f0c128d679eed.sdp/playlist.m3u8
-#EXTINF:-1 group-title="ITA",[IT]TVL (TV Libera Pistoia)
-http://live.mariatvcdn.com/mariatvcdn/70564e1c6884c007c76f0c128d679eed.sdp/mono.m3u8
 #EXTINF:-1 group-title="ITA",[IT]TVRS
 http://wms.shared.streamshow.it/tvrs/tvrs/playlist.m3u8
 #EXTINF:-1 group-title="ITA",[IT]TVRS (576p) [Not 24/7]
@@ -1815,8 +1983,6 @@ https://59d7d6f47d7fc.streamlock.net/tvrs/tvrs/playlist.m3u8
 https://stream6-rai-it.akamaized.net/live/uninettuno/playlist.m3u8
 #EXTINF:-1 group-title="ITA",[IT]Vuemme
 https://5db313b643fd8.streamlock.net/Vuemme/Vuemme/playlist.m3u8
-#EXTINF:-1 ,[IT]WarnerTV Italy HD
-http://51.179.188.106:4000/play/a00y/index.m3u8
 #EXTINF:-1 group-title="ITA",[IT]Well Tv
 https://59d7d6f47d7fc.streamlock.net/welltv/welltv/playlist.m3u8
 #EXTINF:-1 group-title="ITA",[IT]Zerouno Tv News
@@ -1849,13 +2015,13 @@ https://5f700d5b2c46f.streamlock.net/canal22/canal22/chunklist_w853419154.m3u8?W
 http://streamyes.alsolnet.com/canal34hd/live/chunklist_w332382386.m3u8
 #EXTINF:-1 group-title="America",[LAT]Canal Boas Novas
 https://cdn.jmvstream.com/w/LVW-9375/LVW9375_6i0wPBCHYc/chunklist.m3u8
-#EXTINF:-1 group-title="America",[LAT]Canal VisiÃ³n Dorada HD
+#EXTINF:-1 group-title="America",[LAT]Canal Vision Dorada HD
 https://movil.ejeserver.com/live/visiondorada.m3u8?_=1
 #EXTINF:-1 group-title="America",[LAT]CANELA TV 2
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=65&live=1&app_bundle=com.plexapp.desktop&did=&app_domain=app.plex.tv&app_name=plex&h=1080&w=1920&content_title=vX2gxiT5Q_vtARVYwbZa&content_series=5f5132e362fe160040f26c18&custom4=plex&gdpr=0&device_make=Windows&device_model=Opera&coppa=0&us_privacy=1---
 #EXTINF:-1 group-title="America",[LAT]CDM TV
 http://205.164.56.130:1935/marcos536/marcos536/chunklist_w191773249.m3u8
-#EXTINF:-1 group-title="America",[LAT]CGTN EspaÃ±ol (Opt-1)
+#EXTINF:-1 group-title="America",[LAT]CGTN Espanol (Opt-1)
 http://livees.cgtn.com/1000e/prog_index.m3u8
 #EXTINF:-1 group-title="America",[LAT]CINE +
 http://189.86.89.116/hls-live/livecm/_definst_/liveevent/livestream.m3u8
@@ -1869,8 +2035,6 @@ https://cdn01.yowi.tv/KQRSDA7GDB/live-1200.m3u8
 http://stream.mediawork.cz/retrotv/retrotvHQ1/HasBahCa.m3u8
 #EXTINF:-1 group-title="America",[LAT]El TV
 https://streamer1.streamhost.org/salive/eltvH/playlist.m3u8
-#EXTINF:-1 group-title="America",[LAT]ER.TV
-https://stmvideo1.livecastv.com/canal6er/canal6er/chunklist_w1717311195.m3u8
 #EXTINF:-1 group-title="America",[LAT]ESCUCHAME
 https://stmv1.voxtvhd.com.br:443/escuchame/escuchame/chunklist_w1449652967.m3u8
 #EXTINF:-1 group-title="America",[LAT]FARO DE SANTIDAD
@@ -1879,13 +2043,13 @@ https://5dbcd1053301e.streamlock.net:4443/farotv/farotv/chunklist_w1856751743.m3
 https://stmv1.transmissaodigital.com/ronald6259/ronald6259/chunklist_w358899857.m3u8
 #EXTINF:-1 ,[LAT]GOSPEL CARTOON
 https://stmv1.srvif.com/gospelcartoon/gospelcartoon/playlist.m3u8
-#EXTINF:-1 group-title="America",[LAT]LA FE MUEVE MONTAÃ‘AS
+#EXTINF:-1 group-title="America",[LAT]LA FE MUEVE MONTANAS
 https://inliveserver.com:1936/10020/10020/chunklist_w1563077035.m3u8
 #EXTINF:-1 group-title="America",[LAT]LOGOS ESTUDIO
 https://streamer1.streamhost.org:443/salive/logosdirectaH/chunklist_w1482981736.m3u8
 #EXTINF:-1 group-title="America",[LAT]LUNA TV
 https://ss2.domint.net:3228/luna_str/lunatv/playlist.m3u8
-#EXTINF:-1 group-title="America",[LAT]MANÃ DEL CIELO
+#EXTINF:-1 group-title="America",[LAT]MANA DEL CIELO
 http://mediaplatform.streamingmediahosting.com/p/10671/sp/1067100/playManifest/entryId/0_97vnjka8/format/applehttp/protocol/http/a.m3u8
 #EXTINF:-1 group-title="America",[LAT]MOVIE FE
 https://vcp.myplaytv.com:443/moviefe/moviefe/chunklist_w1856309372.m3u8
@@ -1949,7 +2113,7 @@ https://5790d294af2dc.streamlock.net:443/8160/8160/chunklist_w1412141262.m3u8
 https://5790d294af2dc.streamlock.net:443/8090/8090/chunklist_w1550299093.m3u8
 #EXTINF:-1 group-title="America",[LAT]VICTORIA TV
 https://videohd.live:19360/8062/8062.m3u8
-#EXTINF:-1 group-title="America",[LAT]VIDA TELEVISIÃ“N
+#EXTINF:-1 group-title="America",[LAT]VIDA TELEVISION
 https://2-fss-2.streamhoster.com/pl_120/amlst:200226-1449024/playlist.m3u8
 #EXTINF:-1 ,[MUS]Radio U
 https://cdnlive.radiou.com/LS-ATL-43240-1/tracks-v1a1/mono.m3u8?
@@ -2377,12 +2541,10 @@ https://5d0cf65a7cc81.streamlock.net/live/Stream1/.m3u8
 https://uni01rtmp.tulix.tv/americateve1/americateve1/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://i2.paste.pics/6074e29d2a3241e1f3b3051144274188.png",AMX Noticias
 https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8?
-#EXTINF:-1 ,Anime Clasico
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6054acc871ec430007f54c7d/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=4da2&deviceDNT=0&deviceModel=0
-#EXTINF:-1 ,Anime Espanol
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/608035b8d8705f0007260287/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=4f77&deviceDNT=0&deviceModel=0
-#EXTINF:-1 ,Anime Latino
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde17bf6591d0009839e02/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=4e90&deviceDNT=0&deviceModel=0
+#EXTINF:-1 group-title="Mexico" tvg-logo="https://i.imgur.com/snIU1UA.jpg",AMX Noticias (720p)
+http://tvpremiumhd.club/lista-gratuita/214203/on/lives.php?id=5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8
+#EXTINF:-1 group-title="Mexico" tvg-logo="https://i.imgur.com/snIU1UA.jpg",AMX Noticias (720p) [Not 24/7]
+https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://lh3.googleusercontent.com/-GXO0Icql4EQ/XoKCsLIBYYI/AAAAAAAAxU8/orolaAsdhtcwmmCf7538H7VopRGVo2wbwCK8BGAsYHg/s0/2020-03-30.png",Antares TV
 https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 ,Antena 3
@@ -2399,6 +2561,16 @@ https://video01.logicahost.com.br/ararunatv/ararunatv/playlist.m3u8?PlaylistM3UC
 https://derste247livede.akamaized.net/hls/live/658317/daserste_de/master.m3u8
 #EXTINF:-1 group-title="DE_Deutsch_German_ALMANCA",ARD-alpha
 https://brlive-lh.akamaihd.net/i/bralpha_germany@119899/master.m3u8
+#EXTINF:-1 group-title="Argentina",ARG|Argentina Ã°Å¸â€¡Â¦Ã°Å¸â€¡Â·
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=1080
+#EXTINF:-1 group-title="Argentina",ARG|Argentinisima Satelital Ã°Å¸â€¡Â¦Ã°Å¸â€¡Â·
+http://186.0.233.76:1935/Argentinisima/smil:argentinisima.smil/playlist.m3u8
+#EXTINF:-1 group-title="Argentina",ARG|Canal 2 Telpin Pinamar Ã°Å¸â€¡Â¦Ã°Å¸â€¡Â·
+https://wowza.telpin.com.ar:1935/telpintv/smil:ttv.stream.smil/chunklist_w1328721087_b1344100_sleng.m3u8
+#EXTINF:-1 group-title="Argentina" tvg-logo="https://i.imgur.com/xu8lnw9.png",ARG|Telemax  Ã¡Â´Â´Ã¡Â´Â° Ã°Å¸â€¡Â¦Ã°Å¸â€¡Â·
+http://tvpremiumhd.club/lista-gratuita/214203/on/iptv.php?id=live-edge01.telecentro.net.ar/live/smil:tlx.smil/master
+#EXTINF:-1 group-title="Argentina",ARG|Telemax Ã°Å¸â€¡Â¦Ã°Å¸â€¡Â·
+http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8
 #EXTINF:-1 ,Arirang
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8?
 #EXTINF:-1 group-title="English à¦¨à¦¿à¦‰à¦œ Tv" tvg-logo="ext",Arirang (KOREA)
@@ -2411,8 +2583,6 @@ https://live.obslivestream.com/autenticatvmux/index.m3u8?PlaylistM3UCL
 http://51.210.199.4/hls/stream.m3u8
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/Azteca_America_2011_logo.png",Azteca America
 https://v-px.mybtv.net/live/41.m3u8
-#EXTINF:-1 ,Baby First (Pluto)
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ebac49ce4dc8b00078b23bc/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=28d8&deviceDNT=0&deviceModel=0
 #EXTINF:-1 ,Baden TV
 http://badentv-stream2.siebnich.info/rtplive/btv.stream/playlist.m3u8
 #EXTINF:-1 group-title="MUSIC TV" tvg-logo="https://i.imgur.com/mW6c2QR.png",Baraza TV (Greek)
@@ -2443,8 +2613,6 @@ http://210.210.155.35:80/dr9445/h/h03/01.m3u8?
 http://boliviatv1.srfms.com:5735/live/livestream/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://i2.paste.pics/4dc5de183727a12e5701c57cddac2f28.png",BO|Bolivision
 https://d2byzrnrdb259r.cloudfront.net/hls/live.m3u8?PlaylistM3UCL
-#EXTINF:-1 ,Bob Esponja
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6254598f5083f800076d8563/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=cb17&deviceDNT=0&deviceModel=0
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/90/LOGO_C9N_2022.png",C9N
 https://d4xunn272arip.cloudfront.net/hls/c9n.m3u8
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Cable_Noticias_logo.svg/1200px-Cable_Noticias_logo.svg.png",Cablenoticias
@@ -2479,7 +2647,7 @@ https://stream.arcast.live/canal7jujuy/ngrp:canal7jujuy_all/playlist.m3u8?Playli
 https://tvdatta.com:3838/live/canalcatacaoslive.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="DE_SWITZERLAND_SCHWEIZ",Canal 9
 https://edge14.vedge.infomaniak.com/livecast/ik:livesd2/chunklist_w123510975.m3u8
-#EXTINF:-1  tvg-logo="https://lh3.googleusercontent.com/-opZ6mP8G3Fo/Wn9lBEeoQ4I/AAAAAAAAgwY/cKvIaCeqHZEwdTQ-pJPh7oCDIU2q-fECwCK8BGAs/s220/2018-02-10.png",Canal 9 BÃƒÂ­o BÃƒÂ­o
+#EXTINF:-1  tvg-logo="https://lh3.googleusercontent.com/-opZ6mP8G3Fo/Wn9lBEeoQ4I/AAAAAAAAgwY/cKvIaCeqHZEwdTQ-pJPh7oCDIU2q-fECwCK8BGAs/s220/2018-02-10.png",Canal 9
 https://unlimited1-cl-isp.dps.live/c9/c9.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1  tvg-logo="https://i2.paste.pics/216f13d3a32f35802881b19c2fa39554.png",Canal 9 Litoral
 https://stream.arcast.live/ahora/ahora/playlist.m3u8?PlaylistM3UCL
@@ -2507,14 +2675,166 @@ https://stream.arcast.live/canalu/canalu/playlist.m3u8?PlaylistM3UCL
 http://canalalphaju.vedge.infomaniak.com/livecast/canalalphaju/manifest.m3u8
 #EXTINF:-1 ,CanelaTV|[ES]Andalucia Turismo ðŸ‡ªðŸ‡¸
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=1253
+#EXTINF:-1 ,CanelaTV|[ES]Aranda TV
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=1263
+#EXTINF:-1 ,CanelaTV|[ES]Barbastro TV
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=1257
 #EXTINF:-1 ,CanelaTV|[ES]Canal Sur ðŸ‡ªðŸ‡¸
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=1252
+#EXTINF:-1 ,CanelaTV|[ES]Galicia
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=1251
+#EXTINF:-1 ,CanelaTV|[ES]GCM TV Canarias
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=1260
+#EXTINF:-1 ,CanelaTV|[ES]Guadalajara TV
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=1259
+#EXTINF:-1 ,CanelaTV|[ES]Hispan TV
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=1474
+#EXTINF:-1 ,CanelaTV|[ES]Popular TV
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=1262
+#EXTINF:-1 ,CanelaTV|[ES]Toledo TV
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=1255
 #EXTINF:-1 ,CanelaTV|[ES]Vigo TV ðŸ‡ªðŸ‡¸
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=1256
+#EXTINF:-1 ,CanelaTV|[ES]Zafra TV
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=1264
 #EXTINF:-1 ,CanelaTV|[MX]Fuego TV
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=1549
+#EXTINF:-1 ,CanelaTV|A3 Internacional
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=1103
+#EXTINF:-1 ,CanelaTV|Americana Television
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=1703
+#EXTINF:-1 ,CanelaTV|Canal CNC
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=1475
+#EXTINF:-1 ,CanelaTV|CHILE|EP
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=1650
+#EXTINF:-1 ,CanelaTV|Cine
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=1239
+#EXTINF:-1 ,CanelaTV|Cine
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=1267
+#EXTINF:-1 ,CanelaTV|Cine
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=1269
+#EXTINF:-1 ,CanelaTV|Cine
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=1443
+#EXTINF:-1 ,CanelaTV|Cine
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=1664
+#EXTINF:-1 ,CanelaTV|Cine
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=1678
+#EXTINF:-1 ,CanelaTV|Cine
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=1700
+#EXTINF:-1 ,CanelaTV|Cine
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=1733
+#EXTINF:-1 ,CanelaTV|Cine
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=1745
+#EXTINF:-1 ,CanelaTV|Cine Mejicano
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=1734
+#EXTINF:-1 ,CanelaTV|Cine Mejicano
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=1732
+#EXTINF:-1 ,CanelaTV|Cine Mejicano
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=2907
+#EXTINF:-1 ,CanelaTV|Cines InglÃ©s
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=1792
+#EXTINF:-1 ,CanelaTV|COL|TV
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=155
+#EXTINF:-1 ,CanelaTV|DEP|AYM
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=1624
+#EXTINF:-1 ,CanelaTV|DEP|SPORTS
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=1555
+#EXTINF:-1 ,CanelaTV|Heritage +
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=2899
+#EXTINF:-1 ,CanelaTV|Heritage Tourism
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=2898
+#EXTINF:-1 ,CanelaTV|HON|TEN HD
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=1653
+#EXTINF:-1 ,CanelaTV|lawcrimech1
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=1074
+#EXTINF:-1 ,CanelaTV|MUS|Truelive
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=1024
+#EXTINF:-1 ,CanelaTV|Musica
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=1081
+#EXTINF:-1 ,CanelaTV|Musica
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=1058
+#EXTINF:-1 ,CanelaTV|Musica
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=1082
+#EXTINF:-1 ,CanelaTV|Musica
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=1083
+#EXTINF:-1 ,CanelaTV|Musica
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=1084
+#EXTINF:-1 ,CanelaTV|Musica
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=1085
+#EXTINF:-1 ,CanelaTV|Musica
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=1657
+#EXTINF:-1 ,CanelaTV|Musica
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=1663
+#EXTINF:-1 ,CanelaTV|Musica
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=1705
+#EXTINF:-1 ,CanelaTV|Musica
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=1747
+#EXTINF:-1 ,CanelaTV|Musica
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=1748
+#EXTINF:-1 ,CanelaTV|Musica
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=1749
+#EXTINF:-1 ,CanelaTV|Musica
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=1750
+#EXTINF:-1 ,CanelaTV|Musica
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=1751
+#EXTINF:-1 ,CanelaTV|Musica
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=1753
+#EXTINF:-1 ,CanelaTV|Musica Pegajosa TV
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=1086
+#EXTINF:-1 ,CanelaTV|Musica Retro
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=1752
+#EXTINF:-1 ,CanelaTV|NASA
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=1773
+#EXTINF:-1 ,CanelaTV|NASA TV
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=1706
+#EXTINF:-1 ,CanelaTV|Novelas
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=1740
+#EXTINF:-1 ,CanelaTV|RDO|Cine
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=1460
+#EXTINF:-1 ,CanelaTV|RDO|Congreso
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=1459
+#EXTINF:-1 ,CanelaTV|RDO|TeleUniverso
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=146
+#EXTINF:-1 ,CanelaTV|RDO|TV Retro
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=1458
+#EXTINF:-1 ,CanelaTV|Real Madrid TV
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=1741
+#EXTINF:-1 ,CanelaTV|Reportajes
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=1677
+#EXTINF:-1 ,CanelaTV|RU|8tv
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=1426
+#EXTINF:-1 ,CanelaTV|Series
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=1737
+#EXTINF:-1 ,CanelaTV|Series
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=1735
+#EXTINF:-1 ,CanelaTV|Telenovalas Argentinas
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=1738
+#EXTINF:-1 ,CanelaTV|Telenovelas
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=1739
+#EXTINF:-1 ,CanelaTV|TV
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=1731
+#EXTINF:-1 ,CanelaTV|Univision
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=1742
+#EXTINF:-1 ,CanelaTV|Univision
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=1744
+#EXTINF:-1 ,CanelaTV|US|Cocina
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=150
+#EXTINF:-1 ,CanelaTV|US|Fish
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=1503
+#EXTINF:-1 ,CanelaTV|US|Miami Latino
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=1456
+#EXTINF:-1 ,CanelaTV|US|Miami TV
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=1453
+#EXTINF:-1 ,CanelaTV|US|Miami TV
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=1457
+#EXTINF:-1 ,CanelaTV|US|Race
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=1029
+#EXTINF:-1 ,CanelaTV|US|Reportaje
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=1506
 #EXTINF:-1  tvg-logo="https://i2.paste.pics/ede0172917569eae7de0f05b84cfde92.png",Cantina TV
 https://vcp.myplaytv.com/cantinatv/cantinatv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="Mexico" tvg-logo="https://i.imgur.com/P1pHy3j.jpg",Capital 21
+http://tvpremiumhd.club/lista-gratuita/214203/on/lives.php?id=video.cdmx.gob.mx/livestream/stream.m3u8
 #EXTINF:-1 ,CBS
 https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8?
 #EXTINF:-1 ,CCTV 1
@@ -2573,10 +2893,6 @@ http://audiotvserver.net:1935/livemedia/cholusat/playlist.m3u8
 https://emisoras.hn:8081/cholutecatv/playlist.m3u8
 #EXTINF:-1 ,CHV Chile
 http://45.160.12.253:8000/play/066
-#EXTINF:-1  tvg-logo="https://lh3.googleusercontent.com/-8bGAVjbmdQo/Xlxxov1VBvI/AAAAAAAAwhU/ZO0JPjy4MaI7lGElqofGQbkOr52Hk1nUQCK8BGAsYHg/s0/2020-03-01.png",CHV Contigo
-https://siloh-latam-aka.plutotv.net/lilo/production/ChileVisionContigo/VE/master.m3u8?PlaylistM3UCL
-#EXTINF:-1  tvg-logo="https://i2.paste.pics/5bf0db1521a041595f387a893ab6512b.png",CHV Noticias
-https://siloh-latam-aka.plutotv.net/lilo/production/Chilevision/master.m3u8?PlaylistM3UCL
 #EXTINF:-1 ,CINE REAL HD
 https://olympusamagi.amagi.tv/hls/amagi_hls_data_olympusat-cinereal-plex/CDN/1920x1080_5055600/index.m3u88
 #EXTINF:-1 ,CINE SURENO HD
@@ -2639,10 +2955,16 @@ http://208.86.19.13:81/14.stream/index.m3u8?
 http://redlabmcdn.s.llnwi.net/nv02/bs13hd/playlist.m3u8?
 #EXTINF:-1 group-title="Documental",DOC|CZE|Natura
 http://media1.tvnatura.cz/live_out/2/live.m3u8
+#EXTINF:-1 group-title="Documental",DOC|Food52 Ã¡Â´Â´Ã¡Â´Â°
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-food52/CDN/1280x720_5000000/index.m3u8
 #EXTINF:-1 group-title="Documental",DOC|KAZ|NGW HD
 https://sc.id-tv.kz/NatGeoWildHD_34_35.m3u8
+#EXTINF:-1 group-title="Documental",DOC|Magellan TV Ã¡Â´Â´Ã¡Â´Â°
+https://dai.google.com/linear/hls/event/s3yrxp8wSTCEcpHR4FoT5Q/master.m3u8
 #EXTINF:-1 group-title="Documental",DOC|Meteo
 http://65.108.87.116:8000/playlist.m3u8
+#EXTINF:-1 group-title="Documental",DOC|Meteonews Ã¡Â´Â´Ã¡Â´Â°
+https://streaming.meteonews.net/hls/stream.m3u8
 #EXTINF:-1 group-title="Documental",DOC|NASA TV
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 #EXTINF:-1 group-title="Documental",DOC|NASA TV
@@ -2765,6 +3087,8 @@ http://cdn12.henico.net:8080/live/jbani/index.m3u8
 http://vcpar.myplaytv.com/humormax/live/playlist.m3u8
 #EXTINF:-1 group-title="à¦­à¦¾à¦°à¦¤ à¦¬à¦¾à¦‚à¦²à¦¾",iB TV USA
 http://208.86.19.13:81/509.stream/index.m3u8
+#EXTINF:-1 group-title="Mexico" tvg-logo="https://i.imgur.com/Dru29kQ.png",Icrtv Colima (720p)
+http://tvpremiumhd.club/lista-gratuita/214203/on/lives.php?id=5ca9af4645e15.streamlock.net/canal11/videocanal11/playlist.m3u8
 #EXTINF:-1 ,Informa Radio
 https://streams.radio.co/se18e1e587/listen
 #EXTINF:-1 ,IQ Channel
@@ -2773,13 +3097,15 @@ https://rtmp.info/iqtv/envivo/master.m3u8
 https://itv.streams.ovh/magictv/magictv/chunklist_w824092799.m3u8
 #EXTINF:-1  tvg-logo="https://lh3.googleusercontent.com/-ZBNktblWn9U/YHTLWC_p1aI/AAAAAAABBXY/v90ntMGcb7kuYUK0yqNBGSTtu1JiQUHfQCK8BGAsYHg/s512/2021-04-12.png",ITV Patagonia
 https://unlimited1-cl-isp.dps.live/itv/itv.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="Mexico" tvg-logo="https://i.imgur.com/N4meE8I.png",Jalisco TV (1080p)
+http://tvpremiumhd.club/lista-gratuita/214203/on/lives.php?id=5fa5de1a545ae.streamlock.net/sisjalisciense/sisjalisciense/playlist.m3u8
 #EXTINF:-1 ,JUNTOS TV HD
 https://olympusamagi.amagi.tv/hls/amagi_hls_data_olympusat-juntos-plex/CDN/1920x1080_5605600/index.m3u8
 #EXTINF:-1 group-title="DE_SWITZERLAND_SCHWEIZ",Kanal 9
 https://livesd2.vedge.infomaniak.com/livecast/livesd2/master.m3u8
 #EXTINF:-1 group-title="DE_SWITZERLAND_SCHWEIZ",Kanal 9 auf Deutsch
 https://edge.vedge.infomaniak.com/livecast/ik:livesd2/master.m3u8
-#EXTINF:-1 group-title="DE_SWITZERLAND_SCHWEIZ",Kanal 9 en FranÃ§ais
+#EXTINF:-1 group-title="DE_SWITZERLAND_SCHWEIZ",Kanal 9 en Francais
 https://edge.vedge.infomaniak.com/livecast/ik:livehd/master.m3u8
 #EXTINF:-1 ,Kerusso TV
 https://emisoras.hn:8081/kerussotv/index.m3u8
@@ -2791,10 +3117,20 @@ http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
 https://rtvelivestream.akamaized.net/rtvesec/la2/la2_main_dvr.m3u8
 #EXTINF:-1  tvg-logo="https://lh3.googleusercontent.com/-w3BIhImK3PM/YKLYqeFgJlI/AAAAAAABCXk/cJQItXH6BeII2A19RmryccG1o54twOSvACK8BGAsYHg/s512/2021-05-17.jpg",La Red | CL
 https://unlimited1-cl-isp.dps.live/lared/lared.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 group-title="DE_SWITZERLAND_SCHWEIZ",La TÃ©lÃ©
+#EXTINF:-1 group-title="DE_SWITZERLAND_SCHWEIZ",La Tele
 https://edge.vedge.infomaniak.com/livecast/ik:latele/playlist.m3u8
 #EXTINF:-1 ,Lacrosse TV
 https://1840769862.rsc.cdn77.org/FTF/LSN_SCTE.m3u8?
+#EXTINF:-1 group-title="America",LAT|CANAL 26 HD
+http://live-edge01.telecentro.net.ar/live/26hd-360/HasBahCa.m3u8
+#EXTINF:-1 group-title="America",LAT|Noti Uno Puerto Rico (404p) [Not 24/7]
+https://59514edd5dd8e.streamlock.net/unoradio/unoradio1/chunklist_w782728706.m3u8
+#EXTINF:-1 group-title="America",LAT|Red Bull
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_928.m3u8
+#EXTINF:-1 group-title="America",LAT|SANTA CRUZTV
+https://rtmp.info/tvsantacruz/envivo/chunks.m3u8
+#EXTINF:-1 group-title="America",LAT|TV Pombal HD
+https://server.flixtv.com.br/agrobrasiltv/agrobrasiltv/chunklist_w236507452.m3u8
 #EXTINF:-1 ,Latina
 http://live.mycamtv.com/latina.m3u8
 #EXTINF:-1  tvg-logo="https://i2.paste.pics/f5a6133c6b0fcec076105dfd2508549c.png",Latinos Radio
@@ -2859,6 +3195,10 @@ http://stream3.prostudionetwork.com:1943/megavision/MV/chunklist_w1925216201.m3u
 https://mediacp.us:8081/8002/index.m3u8?PlaylistM3UCL
 #EXTINF:-1  tvg-logo="https://lh3.googleusercontent.com/-jmy2QkmWoRo/YHXBqWNq0wI/AAAAAAABBY4/Hj1S6QLY8tE3rtmAX-0Rvr26hbqsAyPOQCK8BGAsYHg/s512/2021-04-13.png",Metropolitana FM
 https://panel.dattalive.com/MetropolitanaFM/MetropolitanaFM/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="Mexico",MEX|Transmedia Television Morelia
+http://streamingcws20.com:1935/tmtv/videotmtv/chunklist_w1798696550.m3u8
+#EXTINF:-1 group-title="Mexico" tvg-logo="https://i.imgur.com/IjE1ORI.png",Mexiquense TV (720p)
+http://tvpremiumhd.club/lista-gratuita/214203/on/lives.php?id=5ca3e84a76d30.streamlock.net/mexiquense/videomexiquense/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://lh3.googleusercontent.com/-EvztcqftXgc/YH47C8J3ByI/AAAAAAABBxg/wV8hmM0M5MMPL9Im4r1eQRejLGb9wUIkQCK8BGAsYHg/s512/2021-04-19.png",Mi TV | PY
 https://rds3.desdeparaguay.net/mitv/mitv/playlist.m3u8
 #EXTINF:-1 group-title="+18",Miami TV
@@ -2937,8 +3277,6 @@ http://162.250.201.58:6211/pk/ONEGOLF/tracks-v1a1/mono.m3u8?
 https://edge.vedge.infomaniak.com/livecast/ik:onefmmd/manifest.m3u8
 #EXTINF:-1 group-title="Dominicana" tvg-logo="https://lh3.googleusercontent.com/-13NMPnGbChA/XkyjXafughI/AAAAAAAAwIE/5GeoQycy3SoMZ91mla3A_jqJqCqTMvz9wCK8BGAsYHg/s0/2020-02-18.png",Orbit TV
 https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://lh3.googleusercontent.com/-dfmlV2X9BOw/Xxzw0ylSyII/AAAAAAAA3bM/b8nXIhkHQrcs9nR-mDVKPpmN08GRcrakQCK8BGAsYHg/s0/2020-07-25.png",Ovacion
-http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 ,PAC12
 https://pac12-roku-us.amagi.tv/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://i2.paste.pics/967fc9c451334a960cb23ee0482c77bc.png",Panamericana
@@ -2961,6 +3299,8 @@ http://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
 https://stmv.panel.grupolimalive.com/planeatv/planeatv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 ,Poker
 https://d3w4n3hhseniak.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/WPT-DistroTV/150.m3u8
+#EXTINF:-1 group-title="USA" tvg-logo="https://i.imgur.com/vLSvJ7W.jpg",Pongalo Novelaclub (720p)
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokunovelaclub/CDN/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://lh3.googleusercontent.com/-k9n3tedhqBs/XbC_-FblJSI/AAAAAAAArm4/pMPtuBhhdtoL_yFWs5dt23dHFTHHCv8hgCK8BGAsYHg/s0/2019-10-23.png",Portal FoxMix
 https://593b04c4c5670.streamlock.net:443/portalfoxmix/portalfoxmix/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1  tvg-logo="https://lh3.googleusercontent.com/-OK87fh0FDss/X1TJ_IQLsnI/AAAAAAAA5Tw/Kqs7XCSrP1caCJnMnM3nrIPhHV02XZMzQCK8BGAsYHg/s0/2020-09-06.png",Power
@@ -2977,220 +3317,6 @@ http://llnw.live.qvc.simplestream.com/hera/remote/qvcde_primary_sdi7/live.m3u8?D
 http://k3.usastreams.com/CableLatino/88stereo/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="DE_SWITZERLAND_SCHWEIZ",Radio3i
 https://livestream.gruppocdt.ch/hls/radio3i_720p/index.m3u8
-#EXTINF:-1 ,Rakuten de Actionfilme TV
-https://e4c3186527294735b034e99058776780.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-de_RakutenActionMovies/playlist.m3u8
-#EXTINF:-1 ,Rakuten de BBC Food
-https://c367ab159c494e0daa775bd24aac404d.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-de_BBCFood/playlist.m3u8
-#EXTINF:-1 ,Rakuten de BBC History
-https://7a0978fa08424aa3b473d22dc144bd01.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-de_BBCHistory/playlist.m3u8
-#EXTINF:-1 ,Rakuten de BBC Travel
-https://ab96b349d4d14d80a1f8530a0bce4488.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-de_BBCTravel/playlist.m3u8
-#EXTINF:-1 ,Rakuten de Bloomberg TV+
-https://6fae2fb516504b2eaa11e5eb1e48bf1c.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-de_Bloomberg/playlist.m3u8
-#EXTINF:-1 ,Rakuten de Euronews
-https://64ae17e353a144d38d09cb7530008fb7.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-de_EuroNewsLive/playlist.m3u8
-#EXTINF:-1 ,Rakuten de Euronews
-https://rakuten-euronews-5-de.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 ,Rakuten de FailArmy
-https://799e1e65b6954f11b65eba4ce0d6b8ae.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-de_FailArmy/playlist.m3u8
-#EXTINF:-1 ,Rakuten de Fashion Magazines
-https://fashiontv-fashiontv-4-de.samsung.wurl.com/manifest/playlist.m3u8?
-#EXTINF:-1 ,Rakuten de FTF
-https://7fffe3f012a842fcaf3303e75eec1028.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-de_FTFNextInternational/playlist.m3u8
-#EXTINF:-1 ,Rakuten de Hallo:Eltern
-https://9b76b74987e54141b85aa9b3226b9612.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-de_HALLOELTERN/playlist.m3u8
-#EXTINF:-1 ,Rakuten de Horse & Country
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/samsunguk-hnc-free-samsung-germany/playlist.m3u8
-#EXTINF:-1 ,Rakuten de Insight TV
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/samsunguk-insighttv-german-samsungtv-uk/playlist.m3u8
-#EXTINF:-1 ,Rakuten de Inwonder TV
-https://inwonder-samsung-de.amagi.tv/playlist.m3u8
-#EXTINF:-1 ,Rakuten de Komadien TV
-https://d69cd6f2ab304e228ebea8afc7420983.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-de_RakutenComedyMovies/playlist.m3u8
-#EXTINF:-1 ,Rakuten de Moviedome
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/samsunguk-kochmedia-moviedome-samsunguk/playlist.m3u8
-#EXTINF:-1 ,Rakuten de Moviedome Family
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/samsunguk-kochmedia-moviedomefamily-samsunguk/playlist.m3u8
-#EXTINF:-1 group-title="DE_Deutsch_German_TVPLUS",Rakuten de Reuters
-https://e6c161a2065f471aaf3136462778a6da.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-de_ReutersNow/playlist.m3u8
-#EXTINF:-1 ,Rakuten de Sofy TV
-https://sofy-ger-samsung.amagi.tv/playlist.m3u8
-#EXTINF:-1 ,Rakuten de Stories TV
-https://e9937d5e420843fd89b67166d91331f2.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-de_RakutenSpotlight/playlist.m3u8
-#EXTINF:-1 ,Rakuten de SuperToons TV
-https://050831e2427a4101b90eadb8bd424266.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-de_SuperToonsTV/playlist.m3u8
-#EXTINF:-1 ,Rakuten de The Pet Collective
-https://7e317da828ea423886a65e2693b23248.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-de_ThePetCollective/playlist.m3u8
-#EXTINF:-1 ,Rakuten de Travelxp
-https://dd87bd3119dc4cbca8c31c3f5d127aef.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-de_TravelXP/playlist.m3u8
-#EXTINF:-1 ,Rakuten de Vevo Pop
-https://eu.linear.zype.com/7a727d8b-13f8-458f-b37e-c6fe35f39072/612c2923-5cb6-4291-8349-3dfbf27320f1-samsung-tv/live.m3u8?
-#EXTINF:-1 ,Rakuten de Vevo Schlager Pop
-https://eu.linear.zype.com/94b11c4d-b7ec-43fb-b1d4-53de5540df7b/a1c67f60-e917-41d5-86ab-dd1f4e252002-samsung-tv/live.m3u8?
-#EXTINF:-1 ,Rakuten de Wilder Planet
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00477-samsunguk-wilderplanet-samsunguk-samsunguk/playlist.m3u8
-#EXTINF:-1 ,Rakuten de World Poker Tour
-https://e22c2098b9ac42adbbf965b46f869046.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-de_WorldPokerTour/playlist.m3u8
-#EXTINF:-1 ,Rakuten de Xite
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/xiteaaaaa-xite-samsung-de/playlist.m3u8
-#EXTINF:-1 ,Rakuten en actionmovies
-https://rakuten-actionmovies-1-eu.rakuten.wurl.tv/playlist.m3u8?
-#EXTINF:-1 ,Rakuten en africanews
-https://rakuten-africanews-1-dk.samsung.wurl.com/manifest/playlist.m3u8?
-#EXTINF:-1 ,Rakuten en BBC Drama
-https://4965d0c5c25f4eba990ba5e97b677215.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-it_BBCDrama/playlist.m3u8?ads.wurl_channel=986&ads.wurl_name=BBCDrama&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
-#EXTINF:-1 ,Rakuten en Bizzarro Movies
-https://797fbe152cbe418697be037aef3a708f.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-it_BizzarroMovies/playlist.m3u8?ads.wurl_channel=607&ads.wurl_name=BizzarroMovies&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0&ads.consent=%7BTC_STRING%7D
-#EXTINF:-1 ,Rakuten en Bloomberg
-https://bloomberg-bloombergtv-1-it.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 ,Rakuten en Canale Europa
-https://f123d461fa05419a8d092e49bf7ba9a6.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-it_CanaleEuropaTV/playlist.m3u8?ads.wurl_channel=789&ads.wurl_name=CanaleEuropaTV&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
-#EXTINF:-1 ,Rakuten en CGTV
-https://99d8c10bb3a6428ca41d80c034b759f1.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-it_CGtv/playlist.m3u8?ads.wurl_channel=619&ads.wurl_name=CGtv&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
-#EXTINF:-1 ,Rakuten en comedymovies
-https://rakuten-comedymovies-1-eu.rakuten.wurl.tv/playlist.m3u8?
-#EXTINF:-1 ,Rakuten en Crime 360
-https://aenetworks-crime360-1.samsung.wurl.com/manifest/3000.m3u8?
-#EXTINF:-1 ,Rakuten en family
-https://rakuten-family-1-eu.rakuten.wurl.tv/playlist.m3u8?
-#EXTINF:-1 ,Rakuten en filmstream
-https://spi-filmstream-1-eu.rakuten.wurl.tv/playlist.m3u8?
-#EXTINF:-1 ,Rakuten en FOX
-https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8?
-#EXTINF:-1 ,Rakuten en FOX News Now
-https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
-#EXTINF:-1 ,Rakuten en Fuel TV
-https://fueltv-fueltv-5-de.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 ,Rakuten en Fuel_TV
-https://fueltv-fueltv-1-au.samsung.wurl.com/playlist_1280x720_3000k.m3u8
-#EXTINF:-1 ,Rakuten en guardian
-https://rakuten-guardian-1-ie.samsung.wurl.tv/playlist.m3u8?
-#EXTINF:-1 ,Rakuten en Horse Race
-https://hncfree-samsungau.amagi.tv/playlist.m3u8?
-#EXTINF:-1 ,Rakuten en IN Wild
-https://inwild-samsung-uk.amagi.tv/playlist720-p.m3u8
-#EXTINF:-1 ,Rakuten en Ion Plus
-https://ion-plus.samsung.wurl.com/manifest/playlist.m3u8?
-#EXTINF:-1  tvg-logo="https://rndserv.xyz/img/lovemagazine.png",Rakuten en Love Magazine
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01821-lovetvchannels-lovemagazinees-samsungspain/playlist.m3u8
-#EXTINF:-1 ,Rakuten en Motor1 TV
-https://b87f4ca7d206491eb1e66c08df063cf7.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-it_Motor1TV/playlist.m3u8?ads.wurl_channel=560&ads.wurl_name=Motor1TV&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0&ads.consent=%7BTC_STRING%7D
-#EXTINF:-1 ,Rakuten en MUS|90s
-https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
-#EXTINF:-1 ,Rakuten en My time movie networká´´á´°
-https://appletree-mytime-samsungbrazil.amagi.tv/playlist720p.m3u8
-#EXTINF:-1 ,Rakuten en Outdoor Channel
-https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoortv-samsungau/playlist.m3u8
-#EXTINF:-1 ,Rakuten en PBS America
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/pbsAAAAAA-pbs-samsung-uk/playlist.m3u8
-#EXTINF:-1 ,Rakuten en PBS America
-https://pbs-samsunguk.amagi.tv/playlist.m3u8
-#EXTINF:-1 ,Rakuten en Qwest TV Classical
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/qwestAAAA-qwestclassic-uk-samsungtv/playlist.m3u8
-#EXTINF:-1 ,Rakuten en Qwest TV Jazz and Beyond
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/qwestAAAA-qwestjazz-uk-samsungtv/playlist.m3u8
-#EXTINF:-1 ,Rakuten en Qwest TV Mix
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/qwestAAAA-qwestmix-uk-samsungtv/playlist.m3u8
-#EXTINF:-1 ,Rakuten en Real Families
-https://lds-realfamilies-samsunguau.amagi.tv/playlist.m3u8?
-#EXTINF:-1 ,Rakuten en spotlight
-https://rakuten-spotlight-1-eu.rakuten.wurl.tv/playlist.m3u8?
-#EXTINF:-1 ,Rakuten en Tastemade
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/tastemade-tastemade-germany-samsung-ukAA/playlist.m3u8
-#EXTINF:-1 ,Rakuten en Tennis Channel
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/samsunguk-tennischannel-int-samsunguk/playlist.m3u8
-#EXTINF:-1 ,Rakuten en Tennis Channel Int.3
-https://tennischannel-intl-samsung-uk.amagi.tv/playlist.m3u8
-#EXTINF:-1 ,Rakuten en TENNIS CHANNEL INTERNACIONAL 1
-https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8
-#EXTINF:-1 ,Rakuten en tennischannel
-https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8?
-#EXTINF:-1 ,Rakuten en Todo Crimen
-https://uksono2-samsung-tsv2-hzn2u.amagi.tv/playlist/samsunguk-uksono-samsunges/playlist.m3u8
-#EXTINF:-1 ,Rakuten en topfree
-https://rakuten-topfree-1-eu.rakuten.wurl.tv/playlist.m3u8?
-#EXTINF:-1 ,Rakuten en Trace Sport Stars
-http://tracesportstars-samsunges.amagi.tv/hls/amagi_hls_data_samsunguk-tracesport-samsungspain/CDN/playlist.m3u8
-#EXTINF:-1 ,Rakuten en Vevo '90s & '00s
-https://eu.linear.zype.com/618cb0ae-8c7f-49dc-a2f3-1947474ca9f7/889fdae7-6cc0-4da6-bd8e-980793071aa9-samsung-tv/live.m3u8?sitesection_id=vevo_linear%3A_samsungtvplus&sitesection_network_id=516283&sitesection_fallback_id=15346233&device_id=%7BPSID%7D&target_option=%7BTARGETOPT%7D&app_name=%7BAPP_NAME%7D&app_domain=%7BAPP_DOMAIN%7D&TC_STRING=%7BTC_STRING%7D
-#EXTINF:-1 ,Rakuten en Vevo Pop
-https://eu.linear.zype.com/17769b96-bcd3-46d3-9eb0-1ebafe7121f7/5cd509db-d309-4139-b542-2ea98dde954b-samsung-tv/live.m3u8?sitesection_id=vevo_linear%3A_samsungtvplus&sitesection_network_id=516283&sitesection_fallback_id=15346233&device_id=%7BPSID%7D&target_option=%7BTARGETOPT%7D&app_name=%7BAPP_NAME%7D&app_domain=%7BAPP_DOMAIN%7D&TC_STRING=%7BTC_STRING%7D
-#EXTINF:-1  tvg-logo="https://rndserv.xyz/img/vix.png",Rakuten en ViX JaJaJa
-https://d1406h321fcaxw.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-hlqsnnxad8rlq-ssai-prd/dist/samsungtv/310/hls/master/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://rndserv.xyz/img/vix.png",Rakuten en ViX Parejas
-https://d1f3q72l8uy8ur.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-z46pswns8dp1b-ssai-prd/dist/samsungtv/318/hls/master/playlist.m3u8
-#EXTINF:-1 ,Rakuten enReal Stories
-https://realstories-samsung-uk.amagi.tv/playlist720-p.m3u8?
-#EXTINF:-1 ,Rakuten es DUCK TV
-https://mmm-ducktv-3-es.samsung.wurl.com/manifest/d3f8ea989ab57c23ee5efc0cdeee512f.m3u8
-#EXTINF:-1 ,Rakuten es Espanol
-https://128559a99ef24f61b53e3f954af3db8c.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-es_Local/playlist.m3u8
-#EXTINF:-1 ,Rakuten es Fuel TV (Mexico)
-https://fueltv-fueltv-1-au.samsung.wurl.com/manifest/playlist_1280x720_3000k.m3u8
-#EXTINF:-1  tvg-logo="https://rndserv.xyz/img/kanald.png",Rakuten es Kanal D
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-samsungspain/playlist.m3u8
-#EXTINF:-1 ,Rakuten es Movies Central
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00712-alchimie-moviescentrales-samsungspain/playlist.m3u8
-#EXTINF:-1 ,Rakuten es Museum TV
-https://amg01492-secomsasmediart-museumtv-eng-samsungspain-ytglp.amagi.tv/playlist/amg01492-secomsasmediart-museumtv-eng-samsungspain/playlist.m3u8
-#EXTINF:-1 ,Rakuten es MY TIME HD
-https://appletree-mytime-samsungmexico.amagi.tv:443/playlist720_p.m3u8
-#EXTINF:-1 ,Rakuten es My time movie networká´´á´°
-https://appletree-mytimespain-rakuten.amagi.tv/playlist1080p.m3u8
-#EXTINF:-1 ,Rakuten es My time Network
-https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
-#EXTINF:-1 ,Rakuten es Romantico
-https://2d8524e2966d4b348b210ec79bdaa943.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-es_RakutenRomance/playlist.m3u8
-#EXTINF:-1 ,Rakuten es Televisa Telenovelas
-https://a1a6e9e8871c44a291f1bf09a08aa5e2.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-it_Televisa/playlist.m3u8?ads.wurl_channel=819&ads.wurl_name=Televisa&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
-#EXTINF:-1 ,Rakuten es Televisa TeleNovelas
-https://40413a8d4fab4568b22187b5d7cd15c9.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-fr_Televisa/playlist.m3u8?ads.wurl_channel=820&ads.wurl_name=Televisa&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
-#EXTINF:-1 ,Rakuten es Thrillers
-https://c494a836bb214f8bb486580f8b23e433.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-es_RakutenThriller/playlist.m3u8
-#EXTINF:-1 ,Rakuten it Cinema Segreto
-https://9e46da7e898449668789c1b36e25aea6.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-it_CinemaSegreto/playlist.m3u8?ads.wurl_channel=608&ads.wurl_name=CinemaSegreto&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0&ads.consent=%7BTC_STRING%7D
-#EXTINF:-1 ,Rakuten it Commedia TV
-https://b88478e868cf4297904debbdc3ad1c23.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-it_RakutenComedyMovies/playlist.m3u8?ads.wurl_channel=444&ads.wurl_name=RakutenComedyMovies&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0&ads.consent=%7BTC_STRING%7D
-#EXTINF:-1 ,Rakuten it Doctor Who
-https://77f9df3b15304c7d98e9fee781e4c098.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-it_DoctorWho/playlist.m3u8?ads.wurl_channel=931&ads.wurl_name=DoctorWho&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
-#EXTINF:-1 ,Rakuten it DramaRakuten
-https://8077fe81975344b291027f32b011511d.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-it_RakutenTVShows/playlist.m3u8?ads.wurl_channel=445&ads.wurl_name=RakutenTVShows&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0&ads.consent=%7BTC_STRING%7D
-#EXTINF:-1 ,Rakuten it Duck TV
-https://mmm-ducktv-2-it.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 ,Rakuten it Euronews
-https://3d48917864744271986248c38e797ee2.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-it_EuroNewsLive/playlist.m3u8?ads.wurl_channel=543&ads.wurl_name=EuroNewsLive&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0&ads.consent=%7BTC_STRING%7D
-#EXTINF:-1 ,Rakuten it FailArmy
-https://2e1afa22a873462b98c1e6822c49bdfb.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-it_FailArmy/playlist.m3u8?ads.wurl_channel=151&ads.wurl_name=FailArmy&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
-#EXTINF:-1 ,Rakuten it Family TV
-https://1c22f8b96aa546b6b49261186cf7b8e5.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-it_RakutenFamily/playlist.m3u8?ads.wurl_channel=723&ads.wurl_name=RakutenFamily&ads.coppa=1&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
-#EXTINF:-1 ,Rakuten it Fashion TV
-https://3dcca5697a894390985218498b5c4f12.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-it_FashionTV/playlist.m3u8?ads.wurl_channel=383&ads.wurl_name=FashionTV&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0&ads.consent=%7BTC_STRING%7D
-#EXTINF:-1 ,Rakuten it Film d'azione TV
-https://8355c6b6739745309af5484182dab133.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-it_RakutenActionMovies/playlist.m3u8?ads.wurl_channel=443&ads.wurl_name=RakutenActionMovies&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0&ads.consent=%7BTC_STRING%7D
-#EXTINF:-1 ,Rakuten it Fuel TV
-https://e6f8d6cbe502460789c86d3ba5327c64.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-it_FuelTV/playlist.m3u8?ads.wurl_channel=586&ads.wurl_name=FuelTV&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0&ads.consent=%7BTC_STRING%7D
-#EXTINF:-1 ,Rakuten it Italian Fishing TV
-https://145e69d8f2754bf382ca09be379ac725.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-it_ItalianFishingTV/playlist.m3u8?ads.wurl_channel=861&ads.wurl_name=ItalianFishingTV&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
-#EXTINF:-1 ,Rakuten it Mondo TV Kids
-https://5609f25938604dc7bf112c01611de124.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-it_MondoTVKids/playlist.m3u8?ads.wurl_channel=609&ads.wurl_name=MondoTVKids&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=1&ads.consent=%7BTC_STRING%7D
-#EXTINF:-1 ,Rakuten it People Are Awesome
-https://cd60a46e1f3045a5b67607e17fbcee88.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-it_PeopleAreAwesome/playlist.m3u8?ads.wurl_channel=386&ads.wurl_name=PeopleAreAwesome&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0&ads.consent=%7BTC_STRING%7D
-#EXTINF:-1 ,Rakuten it Planeta Junior
-https://ff3bc7a6c0bb4f10955d25be3b02f7d2.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-it_PlanetaKidz/playlist.m3u8?ads.wurl_channel=856&ads.wurl_name=PlanetaKidz&ads.coppa=1&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
-#EXTINF:-1 ,Rakuten it Sport Outdoor TV
-https://502f86d03b3c403a9057ca656866c9c9.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-it_SportOutdoorTV/playlist.m3u8?ads.wurl_channel=614&ads.wurl_name=SportOutdoorTV&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0&ads.consent=%7BTC_STRING%7D
-#EXTINF:-1 ,Rakuten it Stories
-https://4cad804950cc426681256927bdf78296.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-it_RakutenSpotlight/playlist.m3u8?ads.wurl_channel=446&ads.wurl_name=RakutenSpotlight&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0&ads.consent=%7BTC_STRING%7D
-#EXTINF:-1 ,Rakuten it Teletubbies
-https://4dab4c773c874a00912d072efdafc136.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-it_WildBrainPresentsTeletubbies/playlist.m3u8?ads.wurl_channel=668&ads.wurl_name=WildBrainPresentsTeletubbies&ads.coppa=1&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
-#EXTINF:-1 ,Rakuten it The Pet Collective
-https://7d5d97e5180d4065bee9b7ec23003d1c.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-it_ThePetCollective/playlist.m3u8?ads.wurl_channel=152&ads.wurl_name=ThePetCollective&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0&ads.consent=%7BTC_STRING%7D
-#EXTINF:-1 ,Rakuten it World Poker Tour
-https://974af218bde94c20be135ae1375e2018.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-it_WorldPokerTour/playlist.m3u8?ads.wurl_channel=983&ads.wurl_name=WorldPokerTour&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
-#EXTINF:-1 ,Rakuten it WP
-https://1d1ed0dfb4a94f9ea120ff72ce028e9c.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-it_WP/playlist.m3u8?ads.wurl_channel=933&ads.wurl_name=WP&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
-#EXTINF:-1 ,Rakuten it Yamato Animation
-https://4e2e58758a334de4b01b25ab2e5f89c7.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-it_YamatoAnimation/playlist.m3u8?ads.wurl_channel=591&ads.wurl_name=YamatoAnimation&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
 #EXTINF:-1 ,RCC TV
 https://59ce1298bfb98.streamlock.net/rcctv02/rcctv02/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://i2.paste.pics/3e1747981aaf292611e7fe356ffbf03e.png",RCG 1 Saltillo
@@ -3241,8 +3367,6 @@ https://olympusamagi.amagi.tv/hls/amagi_hls_data_olympusat-sabermas-plex/CDN/512
 https://stmv.streamingvip.click/sanvitotv/sanvitotv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="à¦­à¦¾à¦°à¦¤ à¦¬à¦¾à¦‚à¦²à¦¾",Sananda TV
 http://bdip.ddns.net:1895/live/iptv/chunklist_w906261752.m3u8
-#EXTINF:-1  tvg-logo="https://i2.paste.pics/98c300d4c9b1e3f00f1968bf4dab9f1f.png",Senal Urbana
-https://videosenlared.fullstreaming.ar:3560/live/senialurbanalive.m3u8?PlaylistM3UCL
 #EXTINF:-1 ,Sercano TV
 http://stream.grupoabchn.com:1935/SERCANOHD/SERCANOLive.smil/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://pbs.twimg.com/media/EPeho9QUUAASjnc.jpg",SET 26.1
@@ -3259,8 +3383,6 @@ https://d4xunn272arip.cloudfront.net/hls/snt.m3u8
 http://serv30.vintera.tv:8081/sochi/sochi_stream/playlist.m3u8
 #EXTINF:-1 ,Space Channel
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=540
-#EXTINF:-1 ,Spike Extremo
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d11baeb31c5a43b77bf59/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=50b2&deviceDNT=0&deviceModel=0
 #EXTINF:-1 ,Stadium
 https://bcovlive-a.akamaihd.net/79ebca453e6340dcb32b09707ce3fb82/us-east-1/5994000126001/8036529875f74c81b5f50851bffbc421/playlist_ssaiM.m3u8
 #EXTINF:-1  tvg-logo="https://lh3.googleusercontent.com/-02uPrXnaZuY/Xk_sz_MIaEI/AAAAAAAAwVo/wwJD8vjW0ScrhAp-BVHSElUKIOUN_CqJgCK8BGAsYHg/s0/2020-02-21.png",STGO.TV
@@ -3303,8 +3425,6 @@ https://unlimited1-cl-isp.dps.live/tcsc/tcsc.smil/playlist.m3u8?PlaylistM3UCL
 http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1  tvg-logo="https://i2.paste.pics/8a2bf919d229e094124cd4739b4c6c7c.png",Telemax
 https://60ed5b6d0df78.streamlock.net:1936/telemax/telemax/.m3u8
-#EXTINF:-1  tvg-logo="https://rndserv.xyz/img/telemundo.png",Telemundo Novelas
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf96cc422df39f1a338d165/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=5fc9&deviceDNT=0&deviceModel=0
 #EXTINF:-1  tvg-logo="https://rndserv.xyz/img/telemundo.png",Telemundo Puerto Rico
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
 #EXTINF:-1  tvg-logo="https://lh3.googleusercontent.com/-XoS6RxCQSVU/YH40uN-lAnI/AAAAAAABBwg/gSs_tad_SrMBNJ_KqXnaNOoM60CSqWuBQCK8BGAsYHg/s512/2021-04-19.jpg",TeleNord
@@ -3317,7 +3437,7 @@ http://newyorkstream.ddns.net:1935/telenord8/telenord8/playlist.m3u8?PlaylistM3U
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=1079
 #EXTINF:-1 ,Telenovelas
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=1095
-#EXTINF:-1  tvg-logo="https://lh3.googleusercontent.com/-IUpSSVnzrws/Xzgi51GivnI/AAAAAAAA4Y8/nHmUFN6uZ7oB-uQxgHaASZT9quRePknMwCK8BGAsYHg/s0/2020-08-15.png",TelepacÃƒÂ­fico
+#EXTINF:-1  tvg-logo="https://lh3.googleusercontent.com/-IUpSSVnzrws/Xzgi51GivnI/AAAAAAAA4Y8/nHmUFN6uZ7oB-uQxgHaASZT9quRePknMwCK8BGAsYHg/s0/2020-08-15.png",Telepacifico
 https://stream.logicideas.media/telepacifico-live/live.smil/.m3u8
 #EXTINF:-1  tvg-logo="https://i2.paste.pics/9374c535562f863ab536cb264e20d812.png",Telesur Costa Rica
 https://59ef525c24caa.streamlock.net/telesur/telesur/playlist.m3u8?PlaylistM3UCL
@@ -3489,18 +3609,30 @@ http://94.229.250.73:8008/play/a002
 http://185.236.229.31:9981/play/a03n
 #EXTINF:-1 ,X|Hustler HD
 http://193.33.240.8:80/hustler_hd/index.m3u8
+#EXTINF:-1 ,X|Hustler HD
+http://193.33.240.8:8080/hustler_hd/index.m3u8
+#EXTINF:-1 ,X|Playboy
+http://8.242.187.233:5800/play/a0gk/index.m3u8
+#EXTINF:-1 ,X|Playboy Europa
+http://82.197.214.59:4000/play/a02i/index.m3u8
 #EXTINF:-1 ,X|Playboy TV HD
 http://190.83.119.67:8000/play/a0ow/index.m3u8
 #EXTINF:-1 ,X|Private  HD
 http://185.236.229.31:9981/play/a03p
+#EXTINF:-1 ,X|RedTraffic Gangbang HD 720 (18+)
+http://live.redtraffic.net/gangbang.m3u8
 #EXTINF:-1 ,X|Russkaya Noch
 http://91.221.201.2:7025/play/a001/index.m3u8
 #EXTINF:-1 ,X|SUI|Rouge TV
 http://rougetv.vedge.infomaniak.com/livecast/rougetv/.m3u8
 #EXTINF:-1 ,X|Venus
 http://190.83.119.67:8000/play/a0rn/index.m3u8
+#EXTINF:-1 ,X|Venus
+http://160.20.164.171:8001/play/a034/index.m3u8
 #EXTINF:-1 ,X|Visit-X TV
 https://stream.visit-x.tv/vxtv/live/playlist.m3u8
+#EXTINF:-1 ,X|VISIT-X TV HD (18+)
+http://stream.visit-x.tv:1935/vxtv/live_720p/playlist.m3u8
 #EXTINF:-1 ,X|ÐšÐ¸Ð½Ð¾ 18+ International
 http://v2.catcast.tv/content/40381/index.m3u8
 #EXTINF:-1  tvg-logo="https://i2.paste.pics/869156d90e27d6c6e09dc5a8f0017838.png",Zapping Music
